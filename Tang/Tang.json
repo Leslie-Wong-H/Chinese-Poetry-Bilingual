@@ -1,0 +1,354 @@
+[
+    {
+      "id":"001",
+
+    "English":{
+      "title":"Home-Coming",
+      "dynasty":"Tang",
+      "author": "He Zhizhang",
+      "content":[
+      "Oh, I return to the homeland I left while young,",
+      "Thinner has grown my hair, though I speak the same tongue.",
+      "My children, whom I meet, do not know who am I,",
+      "\"Where are you from, dear sir?\" they ask with beaming eyes."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "回乡偶书",
+      "dynasty": "唐",
+      "author": "贺知章",
+      "content": [
+        "少小离家老大回，",
+        "乡音无改鬓毛衰。",
+        "儿童相见不相识，",
+        "笑问客从何处来。"
+      ]
+    },
+     "tags": [
+     "homesick"
+     ]
+
+
+    },
+
+
+    {
+      "id":"002",
+
+    "English":{
+      "title":"The Willow Tree",
+      "dynasty":"Tang",
+      "author": "He Zhizhang",
+      "content":[
+      "The slender tree is dressed in emerald all about;",
+      "Thousands of branches droop like fringes made of jade.",
+      "But do you know by whom these slim leaves are cut out?",
+      "The wind of early spring ís sharp as scissor blade."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "咏柳",
+      "dynasty": "唐",
+      "author": "贺知章",
+      "content": [
+        "碧玉妆成一树高，",
+        "万条垂下绿丝绦。",
+        "不知细叶谁裁出，",
+        "二月春风似剪刀。"
+      ]
+    },
+
+     "tags": [
+       "windy",
+       "summer"
+     ]
+    },
+
+
+
+
+
+
+   {
+     "id":"003",
+
+    "English":{
+      "title":"Out of the Great Wall",
+      "dynasty":"Tang",
+      "author": "Wang Zhihuan",
+      "content":[
+      "The yellow sand uprises as high as white cloud;",
+      "The lonely town is lost amid the mountains proud.",
+      "Why should the Mongol flute complain no willows grow?",
+      "Beyond the Gate of Jade no vernal wind will blow."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "凉州词",
+      "dynasty": "唐",
+      "author": "王之涣",
+      "content": [
+        "黄沙直上白云间，",
+        "一片孤城万仞山。",
+        "羌笛何须怨杨柳，",
+        "春风不度玉门关。"
+      ]
+    },
+     "tags": [
+       "border",
+       "homesick"
+     ]
+    },
+
+
+
+    {
+      "id":"004",
+
+    "English":{
+      "title":"On the Stork Tower",
+      "dynasty":"Tang",
+      "author": "Wang Zhihuan",
+      "content":[
+      "The sun beyond the mountain glows;",
+      "The Yellow River seawards flows.",
+      "You can enjoy a grander sight",
+      "By climbing to a greater height."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "登鹳雀楼",
+      "dynasty": "唐",
+      "author": "王之涣",
+      "content": [
+        "白日依山尽，",
+        "黄河入海流。",
+        "欲穷千里目，",
+        "更上一层楼。"
+      ]
+    },
+     "tags": [
+       "dream",
+       "ambition"
+     ]
+    },
+
+
+ {
+      "id":"005",
+
+    "English":{
+      "title":"Mooring on the River at Jiande",
+      "dynasty":"Tang",
+      "author": "Meng Haoran",
+      "content":[
+      "My boat is moored near an isle in mist grey;",
+      "I'm grieved anew to see the parting day.",
+      "On boundless plain trees seem to scrape the sky;",
+      "In water clear the moon appears so nigh."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "宿建德江",
+      "dynasty": "唐",
+      "author": "孟浩然",
+      "content": [
+        "移舟泊烟渚，",
+        "日暮客愁新。",
+        "野旷天低树，",
+        "江清月近人。"
+      ]
+    },
+     "tags": [
+       "night",
+       "homesick"
+     ]
+    },
+
+
+ {
+      "id":"006",
+
+    "English":{
+      "title":"Starting for the Front",
+      "dynasty":"Tang",
+      "author": "Wang Han",
+      "content":[
+      "With wine of grapes the cups of jade would glow at night;",
+      "Drinking to pipa songs, we are summoned to fight.",
+      "Don't laugh if we lay drunken on the battleground,",
+      "How many warriors ever came back safe and sound?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "凉州词",
+      "dynasty": "唐",
+      "author": "王翰",
+      "content": [
+        "葡萄美酒夜光杯，",
+        "欲饮琵琶马上催。",
+        "醉卧沙场君莫笑，",
+        "古来征战几人回？"
+      ]
+    },
+     "tags": [
+       "border",
+       "homesick"
+     ]
+    },
+
+
+
+ {
+      "id":"007",
+
+    "English":{
+      "title":"On the Frontier",
+      "dynasty":"Tang",
+      "author": "Wang Changling",
+      "content":[
+      "The moon still shines on mountain passes as of yore.",
+      "How many guardsmen of Great Wall come back no more!",
+      "If the Flying General were still there in command,",
+      "No hostile steeds would have dared to invade our land."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "出塞",
+      "dynasty": "唐",
+      "author": "王昌龄",
+      "content": [
+        "秦时明月汉时关，",
+        "万里长征人未还。",
+        "但使龙城飞将在，",
+        "不教胡马度阴山。"
+      ]
+    },
+     "tags": [
+       "border",
+       "dream"
+     ]
+    },
+
+
+
+  {
+      "id":"008",
+
+    "English":{
+      "title":"Army Life",
+      "dynasty":"Tang",
+      "author": "Wang Changling",
+      "content":[
+      "Clouds on frontier have darkened mountains clad in snow;",
+      "The town with Gate of Jade stands far away, forlorn.",
+      "We will not leave the desert till we beat the foe,",
+      "Although in war our golden armour be outworn."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "从军行",
+      "dynasty": "唐",
+      "author": "王昌龄",
+      "content": [
+        "青海长云暗雪山，",
+        "孤城遥望玉门关。",
+        "黄沙百战穿金甲，",
+        "不破楼兰终不还。"
+      ]
+    },
+     "tags": [
+       "border",
+       "dream"
+     ]
+    },
+
+
+
+  {
+      "id":"009",
+
+    "English":{
+      "title":"Farewell to a Friend at Lotus Tower",
+      "dynasty":"Tang",
+      "author": "Wang Changling",
+      "content":[
+      "A cold rain mingled with East Stream invades the night;",
+      "At dawn you leave the lonely Southern Hill in haze.",
+      "If my friends in the North should ask if I'm all right.",
+      "My heart is free of stain as ice in crystal vase."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "芙蓉楼送辛渐",
+      "dynasty": "唐",
+      "author": "王昌龄",
+      "content": [
+        "寒雨连江夜入吴，",
+        "平明送客楚山孤。",
+        "洛阳亲友如相问，",
+        "一片冰心在玉壶。"
+      ]
+    },
+     "tags": [
+       "rainy",
+       "homesick"
+     ]
+    },
+
+
+
+
+  {
+      "id":"010",
+
+    "English":{
+      "title":"The Bamboo Hut",
+      "dynasty":"Tang",
+      "author": "Wang Wei",
+      "content":[
+      "Sitting among bamboos alone,",
+      "I play my lute and croon carefree.",
+      "In the deep woods where I'm unknown,",
+      "Only the bright moon peeps at me."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "竹里馆",
+      "dynasty": "唐",
+      "author": "王维",
+      "content": [
+        "独坐幽篁里，",
+        "弹琴复长啸。",
+        "深林人不知，",
+        "明月来相照。"
+      ]
+    },
+     "tags": [
+       "alone",
+       "silence"
+     ]
+    },
+
+
+ ]
