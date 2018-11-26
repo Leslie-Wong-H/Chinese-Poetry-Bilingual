@@ -1,10 +1,10 @@
 # Chinese_Poetry_Bilingual
-###what is the definition of this repository?
+### what is the definition of this repository?
 A database for Chinese Poetry in json format
  with Chinese and English version.
 
 
-###Why I want to build this database?
+### Why I want to build this database?
 Mainly inspired by the high-stared repository
  <i>chinese-poetry</i>, the author of which aims 
  to provide chinese users an quick way to get 
@@ -22,12 +22,12 @@ Mainly inspired by the high-stared repository
 
 
 
-###How does this repository work?
+### How does this repository work?
 The repository is written in json format, and organized the
 document tree like dynasties-poets-works. By the way,<b> 
 repository is still constructing.  </b>
 
-#####An vivid example:
+##### An vivid example:
 ```json
 [
     {
@@ -65,7 +65,7 @@ repository is still constructing.  </b>
 
 
 ```
-##License
+## License
 
 Chinese_Poetry_Bilingual is published under the 
 Apache License, Version 2.0.
