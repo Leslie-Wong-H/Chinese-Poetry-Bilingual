@@ -67,8 +67,8 @@ repository is still constructing.  </b>
 ```
 ## License
 
-Chinese_Poetry_Bilingual is published under the 
-Apache License, Version 2.0.
+Chinese_Poetry_Bilingual is published under the<b> 
+Apache License, Version 2.0.<\b>
 
-Thank you for your supporting for using it. 
+Thanks for your supporting to use it. 
 
