@@ -1,16 +1,16 @@
 [
     {
-      "id":"001",
+      "id":"1-0001",
 
     "English":{
       "title":"Home-Coming",
       "dynasty":"Tang",
       "author": "He Zhizhang",
       "content":[
-      "Oh, I return to the homeland I left while young,",
-      "Thinner has grown my hair, though I speak the same tongue.",
-      "My children, whom I meet, do not know who am I,",
-      "\"Where are you from, dear sir?\" they ask with beaming eyes."
+        "Oh, I return to the homeland I left while young,",
+        "Thinner has grown my hair, though I speak the same tongue.",
+        "My children, whom I meet, do not know who am I,",
+        "\"Where are you from, dear sir?\" they ask with beaming eyes."
       ]
       },
 
@@ -27,7 +27,7 @@
       ]
     },
      "tags": [
-     "homesick"
+       "homesick"
      ]
 
 
@@ -35,17 +35,17 @@
 
 
     {
-      "id":"002",
+      "id":"1-0002",
 
     "English":{
       "title":"The Willow Tree",
       "dynasty":"Tang",
       "author": "He Zhizhang",
       "content":[
-      "The slender tree is dressed in emerald all about;",
-      "Thousands of branches droop like fringes made of jade.",
-      "But do you know by whom these slim leaves are cut out?",
-      "The wind of early spring ís sharp as scissor blade."
+        "The slender tree is dressed in emerald all about;",
+        "Thousands of branches droop like fringes made of jade.",
+        "But do you know by whom these slim leaves are cut out?",
+        "The wind of early spring ís sharp as scissor blade."
       ]
       },
 
@@ -74,17 +74,17 @@
 
 
    {
-     "id":"003",
+     "id":"1-0003",
 
     "English":{
       "title":"Out of the Great Wall",
       "dynasty":"Tang",
       "author": "Wang Zhihuan",
       "content":[
-      "The yellow sand uprises as high as white cloud;",
-      "The lonely town is lost amid the mountains proud.",
-      "Why should the Mongol flute complain no willows grow?",
-      "Beyond the Gate of Jade no vernal wind will blow."
+        "The yellow sand uprises as high as white cloud;",
+        "The lonely town is lost amid the mountains proud.",
+        "Why should the Mongol flute complain no willows grow?",
+        "Beyond the Gate of Jade no vernal wind will blow."
       ]
       },
 
@@ -109,17 +109,17 @@
 
 
     {
-      "id":"004",
+      "id":"1-0004",
 
     "English":{
       "title":"On the Stork Tower",
       "dynasty":"Tang",
       "author": "Wang Zhihuan",
       "content":[
-      "The sun beyond the mountain glows;",
-      "The Yellow River seawards flows.",
-      "You can enjoy a grander sight",
-      "By climbing to a greater height."
+        "The sun beyond the mountain glows;",
+        "The Yellow River seawards flows.",
+        "You can enjoy a grander sight",
+        "By climbing to a greater height."
       ]
       },
 
@@ -143,17 +143,17 @@
 
 
  {
-      "id":"005",
+      "id":"1-0005",
 
     "English":{
       "title":"Mooring on the River at Jiande",
       "dynasty":"Tang",
       "author": "Meng Haoran",
       "content":[
-      "My boat is moored near an isle in mist grey;",
-      "I'm grieved anew to see the parting day.",
-      "On boundless plain trees seem to scrape the sky;",
-      "In water clear the moon appears so nigh."
+        "My boat is moored near an isle in mist grey;",
+        "I'm grieved anew to see the parting day.",
+        "On boundless plain trees seem to scrape the sky;",
+        "In water clear the moon appears so nigh."
       ]
       },
 
@@ -177,17 +177,17 @@
 
 
  {
-      "id":"006",
+      "id":"1-0006",
 
     "English":{
       "title":"Starting for the Front",
       "dynasty":"Tang",
       "author": "Wang Han",
       "content":[
-      "With wine of grapes the cups of jade would glow at night;",
-      "Drinking to pipa songs, we are summoned to fight.",
-      "Don't laugh if we lay drunken on the battleground,",
-      "How many warriors ever came back safe and sound?"
+        "With wine of grapes the cups of jade would glow at night;",
+        "Drinking to pipa songs, we are summoned to fight.",
+        "Don't laugh if we lay drunken on the battleground,",
+        "How many warriors ever came back safe and sound?"
       ]
       },
 
@@ -212,17 +212,17 @@
 
 
  {
-      "id":"007",
+      "id":"1-0007",
 
     "English":{
       "title":"On the Frontier",
       "dynasty":"Tang",
       "author": "Wang Changling",
       "content":[
-      "The moon still shines on mountain passes as of yore.",
-      "How many guardsmen of Great Wall come back no more!",
-      "If the Flying General were still there in command,",
-      "No hostile steeds would have dared to invade our land."
+        "The moon still shines on mountain passes as of yore.",
+        "How many guardsmen of Great Wall come back no more!",
+        "If the Flying General were still there in command,",
+        "No hostile steeds would have dared to invade our land."
       ]
       },
 
@@ -247,17 +247,17 @@
 
 
   {
-      "id":"008",
+      "id":"1-0008",
 
     "English":{
       "title":"Army Life",
       "dynasty":"Tang",
       "author": "Wang Changling",
       "content":[
-      "Clouds on frontier have darkened mountains clad in snow;",
-      "The town with Gate of Jade stands far away, forlorn.",
-      "We will not leave the desert till we beat the foe,",
-      "Although in war our golden armour be outworn."
+        "Clouds on frontier have darkened mountains clad in snow;",
+        "The town with Gate of Jade stands far away, forlorn.",
+        "We will not leave the desert till we beat the foe,",
+        "Although in war our golden armour be outworn."
       ]
       },
 
@@ -282,17 +282,17 @@
 
 
   {
-      "id":"009",
+      "id":"1-0009",
 
     "English":{
       "title":"Farewell to a Friend at Lotus Tower",
       "dynasty":"Tang",
       "author": "Wang Changling",
       "content":[
-      "A cold rain mingled with East Stream invades the night;",
-      "At dawn you leave the lonely Southern Hill in haze.",
-      "If my friends in the North should ask if I'm all right.",
-      "My heart is free of stain as ice in crystal vase."
+        "A cold rain mingled with East Stream invades the night;",
+        "At dawn you leave the lonely Southern Hill in haze.",
+        "If my friends in the North should ask if I'm all right.",
+        "My heart is free of stain as ice in crystal vase."
       ]
       },
 
@@ -318,17 +318,17 @@
 
 
   {
-      "id":"010",
+      "id":"1-0010",
 
     "English":{
       "title":"The Bamboo Hut",
       "dynasty":"Tang",
       "author": "Wang Wei",
       "content":[
-      "Sitting among bamboos alone,",
-      "I play my lute and croon carefree.",
-      "In the deep woods where I'm unknown,",
-      "Only the bright moon peeps at me."
+        "Sitting among bamboos alone,",
+        "I play my lute and croon carefree.",
+        "In the deep woods where I'm unknown,",
+        "Only the bright moon peeps at me."
       ]
       },
 
@@ -349,6 +349,368 @@
        "silence"
      ]
     },
+
+
+
+  {
+      "id":"1-0011",
+
+    "English":{
+      "title":"A Farewell Song",
+      "dynasty":"Tang",
+      "author": "Wang Wei",
+      "content":[
+        "No dust is raised on the road wet with morning rain;",
+        "The willows by the hotel look so fresh and green.",
+        "I invite you to drink a cup of wine again;",
+        "West of the sunny pass no more friends will be seen."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "送元二使安西",
+      "dynasty": "唐",
+      "author": "王维",
+      "content": [
+        "渭城朝雨浥轻尘，",
+        "客舍青青柳色新。",
+        "劝君更尽一杯酒，",
+        "西出阳关无故人。"
+      ]
+    },
+     "tags": [
+       "spring",
+       "voyage"
+     ]
+    },
+
+
+  {
+      "id":"1-0012",
+
+    "English":{
+      "title":"On Mission to the Frontier",
+      "dynasty":"Tang",
+      "author": "Wang Wei",
+      "content":[
+        "A single carriage goes to the frontier;",
+        "As envoy I cross northwest mountains high,",
+        "Like tumbleweed I leave our fortress drear;",
+        "As wild geese I come under Tartar sky.",
+        "In boundless desert lonely smoke rises straight;",
+        "Over endless river the sun sinks round,",
+        "I meet a cavalier at the camp gate;",
+        "In Northern Fort the general will be found."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "使至塞上",
+      "dynasty": "唐",
+      "author": "王维",
+      "content": [
+        "单车欲问边，",
+        "属国过居延。",
+        "征蓬出汉塞，",
+        "归雁入胡天。",
+        "大漠孤烟直，",
+        "长河落日圆。",
+        "萧关逢候骑，",
+        "都护在燕然。"
+      ]
+    },
+     "tags": [
+       "border",
+       "voyage"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0013",
+
+    "English":{
+      "title":"Thinking of My Brothers on Mountain-Climbing Day",
+      "dynasty":"Tang",
+      "author": "Wang Wei",
+      "content":[
+        "Alone, a lonely stranger in a foreign land,",
+        "I doubly pine for kinsfolk on a holiday.",
+        "I know my brothers would, with dogwood spray in hand,",
+        "Climb the mountain and think of me so far away."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "九月九日忆山东兄弟",
+      "dynasty": "唐",
+      "author": "王维",
+      "content": [
+        "独在异乡为异客，",
+        "每逢佳节倍思亲。",
+        "遥知兄弟登高处，",
+        "遍插茱萸少一人。"
+      ]
+    },
+     "tags": [
+       "homesick"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0014",
+
+    "English":{
+      "title":"Passing by the Northern Mountains",
+      "dynasty":"Tang",
+      "author": "Wang Wan",
+      "content":[
+        "My boat goes by green mountains high,",
+        "And passes through the river blue.",
+        "The banks seem wide at the full tide;",
+        "A sail with ease hangs in soft breeze.",
+        "The sun brings light born of last night;",
+        "New spring invades old year which fades.",
+        "How can I send word to my friend?",
+        "Homing wild geese, fly westward please!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "次北固山下",
+      "dynasty": "唐",
+      "author": "王湾",
+      "content": [
+        "客路青山外，",
+        "行舟绿水前。",
+        "潮平两岸阔，",
+        "风正一帆悬。",
+        "海日生残夜，",
+        "江春入旧年。",
+        "乡书何处达？",
+        "归雁洛阳边。"
+      ]
+    },
+     "tags": [
+       "homesick"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0015",
+
+    "English":{
+      "title":"SeekingShelter in Lotus Hill on a Snowy Night",
+      "dynasty":"Tang",
+      "author": "Liu Changqing",
+      "content":[
+        "At sunset hills side village still seems far;",
+        "Cold and deserted the thatched cottages are.",
+        "At wicket gate a dog is heard to bark;",
+        "With wind and snow I come when night is dark."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "逢雪宿芙蓉山主人",
+      "dynasty": "唐",
+      "author": "刘长卿",
+      "content": [
+        "日暮苍山远，",
+        "天寒白屋贫。",
+        "柴门闻犬吠，",
+        "风雪夜归人。"
+      ]
+    },
+     "tags": [
+       "winter"
+     ]
+    },
+
+
+  {
+      "id":"1-0016",
+
+    "English":{
+      "title":"For an Absent Recluse",
+      "dynasty":"Tang",
+      "author": "Jia Dao",
+      "content":[
+        "I ask your lad beneath a pine.",
+        "\"My master has gone for herbs fine.",
+        "He stays deep in the mountain proud,",
+        "I know not where, veiled by the cloud.\""
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "寻隐者不遇",
+      "dynasty": "唐",
+      "author": "贾岛",
+      "content": [
+        "松下问童子，",
+        "言师采药去。",
+        "只在此山中，",
+        "云深不知处。"
+      ]
+    },
+     "tags": [
+       "silence"
+     ]
+    },
+
+
+
+
+  {
+      "id":"1-0017",
+
+    "English":{
+      "title":"Mooring by Maple Bridge at Night",
+      "dynasty":"Tang",
+      "author": "Zhang Ji",
+      "content":[
+        "At moonset cry the crows, streaking the frosty sky;",
+        "Dimly lit fishing boats beneath maples sadly lie.",
+        "Beyond the city walls, from Temple of Cold Hill",
+        "Bells break the ship-borne roamer's dream and midnight still."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "枫桥夜泊",
+      "dynasty": "唐",
+      "author": "张继",
+      "content": [
+        "月落乌啼霜满天，",
+        "江枫渔火对愁眠。",
+        "姑苏城外寒山寺，",
+        "夜半钟声到客船。"
+      ]
+    },
+     "tags": [
+       "silence",
+       "night"
+     ]
+    },
+
+
+  {
+      "id":"1-0018",
+
+    "English":{
+      "title":"Cold Food Day",
+      "dynasty":"Tang",
+      "author": "Han Yi",
+      "content":[
+        "There's nowhere in spring town but flowers fall from trees;",
+        "On Cold Food Day royal willows slant in east breeze.",
+        "At dusk the palace sends privileged candles red",
+        "To the five lordly mansions where wreaths of smoke spread."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "寒食",
+      "dynasty": "唐",
+      "author": "韩翊",
+      "content": [
+        "春城无处不飞花，",
+        "寒食东风御柳斜。",
+        "日暮汉宫传蜡烛，",
+        "轻烟散入五侯家。"
+      ]
+    },
+     "tags": [
+       "history",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0019",
+
+    "English":{
+      "title":"On the West Stream of Chuzhou",
+      "dynasty":"Tang",
+      "author": "Wel Yingwu",
+      "content":[
+        "Alone I like the riverside where green grass grows",
+        "And golden orioles sing amid the leafy trees.",
+        "When showers fall at dusk, the river overflows;",
+        "A lonely boat athwart the ferry floats at ease,"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "滁州西涧",
+      "dynasty": "唐",
+      "author": "韦应物",
+      "content": [
+        "独怜幽草涧边生，",
+        "上有黄鹂深树鸣。",
+        "春潮带雨晚来急，",
+        "野渡无人舟自横。"
+      ]
+    },
+     "tags": [
+       "spring",
+       "alone"
+     ]
+    },
+
+
+  {
+      "id":"1-0020",
+
+    "English":{
+      "title":"Song of the Parting Son",
+      "dynasty":"Tang",
+      "author": "Meng Jiao",
+      "content":[
+        "The thread in mother's hand-",
+        "A gown for parting son,",
+        "Sewn stitch by stitch, alas!",
+        "For fear of cold he'll stand.",
+        "Such kindness of warm sun",
+        "Cant be repaid by grass."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "游子吟",
+      "dynasty": "唐",
+      "author": "孟郊",
+      "content": [
+        "慈母手中线，",
+        "游子身上衣。",
+        "临行密密缝，",
+        "意恐迟迟归。",
+        "谁言寸草心，",
+        "报得三春晖。"
+      ]
+    },
+     "tags": [
+       "spring",
+       "homesick"
+     ]
+    }
 
 
  ]
