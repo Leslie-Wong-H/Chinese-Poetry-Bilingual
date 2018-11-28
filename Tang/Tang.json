@@ -710,7 +710,353 @@
        "spring",
        "homesick"
      ]
-    }
+    },
+
+
+  {
+      "id":"1-0021",
+
+    "English":{
+      "title":"A Border Song",
+      "dynasty":"Tang",
+      "author": "Lu Lun",
+      "content":[
+        "In gloomy woods grass shivers at wind's howl;",
+        "The general takes it for a tiger's growl.",
+        "He shoots and seeks his arrow-plume next morn",
+        "Only to find a rock pierced amid the thorn."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "塞下曲",
+      "dynasty": "唐",
+      "author": "卢纶",
+      "content": [
+        "林暗草惊风，",
+        "将军夜引弓。",
+        "平明寻白羽，",
+        "没在石棱中。"
+      ]
+    },
+     "tags": [
+       "border"
+     ]
+    },
+
+
+  {
+      "id":"1-0022",
+
+    "English":{
+      "title":"Bamboo Branch Song",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "Between the willows green the river flows along,",
+        "My gallant on the stream is heard to sing a song",
+        "The west is veld in rain, the east enjoys sunshine",
+        "My gallant is as deep in love as the day is fine."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "竹枝词",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "杨柳青青江水平，",
+        "闻郎江上唱歌声。",
+        "东边日出西边雨，",
+        "道是无晴却有晴。"
+      ]
+    },
+     "tags": [
+       "love",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0023",
+
+    "English":{
+      "title":"The Street of Mansions",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "Beside the Bridge of Birds rank grasses overgrow;",
+        "Over the Mansion Street the setting sun hangs low.",
+        "Swallows that skimmed by painted eaves in bygone days",
+        "Are dipping now among the humble homes' doorways,"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "乌衣巷",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "朱雀桥边野草花，",
+        "乌衣巷口夕阳斜。",
+        "旧时王谢堂前燕，",
+        "飞入寻常百姓家。"
+      ]
+    },
+     "tags": [
+       "history",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0024",
+
+    "English":{
+      "title":"Lake Dongting Viewed from Afar",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "The autumn moon dissolves in soft light of the lake,",
+        "Unruffled surface like unpolished mirror bright.",
+        "Afar, the isle amid water clear without a break",
+        "Looks like a spiral shell in a plate silver-white."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "望洞庭",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "湖光秋月两相和，",
+        "潭面无风镜未磨。",
+        "遥望洞庭山水色，",
+        "白银盘里一青螺。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0025",
+
+    "English":{
+      "title":"Ripples Sifting Sand",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "The long long winding Yellow River's paved with sand",
+        "Sifted by waves and tossed by winds from far-off land",
+        "Now it goes up straight to the Starry River Way",
+        "To meet the Cowherd and Weaving Maid far away."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "浪淘沙",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "九曲黄河万里沙，",
+        "浪淘风簸自天涯。",
+        "如今直上银河去，",
+        "同到牵牛织女家。"
+      ]
+    },
+     "tags": [
+       "landscape"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0026",
+
+    "English":{
+      "title":"The Town of Stone",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "The changeless hills round ancient capital still stand;",
+        "Waves beating on ruined walls, unheeded, roll away.",
+        "The moon that shone by riverside on flourished land",
+        "Still shines at dead of night over ruined town today."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "石头城",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "山围故国周遭在，",
+        "潮打空城寂寞回。",
+        "淮水东边旧时月，",
+        "夜深还过女墙来。"
+      ]
+    },
+     "tags": [
+       "history"
+     ]
+    },
+
+
+  {
+      "id":"1-0027",
+
+    "English":{
+      "title":"Song of Autumn",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "Since olden days we fel in autumn sad and drear,",
+        "But I say spring cannot compete with autumn clear",
+        "On a fine day a crane cleaves the clouds and soars high;",
+        "It leads the poet's lofty mind to azure sky."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "秋词",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "自古逢秋悲寂寥，",
+        "我言秋日胜春朝。",
+        "晴空一鹤排云上，",
+        "便引诗情到碧宵。"
+      ]
+    },
+     "tags": [
+       "optimism",
+       "season"
+     ]
+    },
+
+
+  {
+      "id":"1-0028",
+
+    "English":{
+      "title":"Reply to Bai Juyi Whom I Meet for the First Time at a Banquet in Yangzhou",
+      "dynasty":"Tang",
+      "author": "Liu Yuxi",
+      "content":[
+        "O Western Mountains and Southern Streams desolate,",
+        "Where I, an exile, lived for twenty years and three!",
+        "To mourn for my departed friends I come too late;",
+        "In native land I look but like human debris.",
+        "A thousand sails pass by the side of sunken ship;",
+        "Ten thousand flowers bloom ahead of injured tree.",
+        "Today I hear you chant the praises of friendship;",
+        "I wish this cup of wine might well inspirit me."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "酬乐天扬州初逢席上见赠",
+      "dynasty": "唐",
+      "author": "刘禹锡",
+      "content": [
+        "巴山楚水凄凉地，",
+        "二十三年弃置身。",
+        "怀旧空吟闻笛赋，",
+        "到乡翻似烂柯人。",
+        "沉舟侧畔千帆过，",
+        "病树前头万木春。",
+        "今日听君歌一曲，",
+        "暂凭杯酒长精神。"
+      ]
+    },
+     "tags": [
+       "optimism",
+       "reunion"
+     ]
+    },
+
+
+  {
+      "id":"1-0029",
+
+    "English":{
+      "title":"The Peasants (I)",
+      "dynasty":"Tang",
+      "author": "Li Shen",
+      "content":[
+        "Each seed that's sown in spring",
+        "Will make autumn yields high.",
+        "What will fertile fields bring?",
+        "Of hunger peasants die."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "悯农（一）",
+      "dynasty": "唐",
+      "author": "李绅",
+      "content": [
+        "春种一粒粟，",
+        "秋收万颗子。",
+        "四海无闲田，",
+        "农夫犹饿死。"
+      ]
+    },
+     "tags": [
+       "history",
+       "class"
+     ]
+    },
+
+
+  {
+      "id":"1-0030",
+
+    "English":{
+      "title":"The Peasants (II)",
+      "dynasty":"Tang",
+      "author": "Li Shen",
+      "content":[
+        "At noon they hoe up weeds;",
+        "Their sweat drips on the soil.",
+        "Who knows the rice that feeds",
+        "Is the fruit of hard toil!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "悯农（二）",
+      "dynasty": "唐",
+      "author": "李绅",
+      "content": [
+        "锄禾日当午，",
+        "汗滴禾下土。",
+        "谁知盘中餐，",
+        "粒粒皆辛苦。"
+      ]
+    },
+     "tags": [
+       "history",
+       "class"
+     ]
+    },
 
 
  ]
