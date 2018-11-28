@@ -1,7 +1,7 @@
 # Chinese_Poetry_Bilingual
 ### what is the definition of this repository?
-A database for Chinese Poetry in json format
- with Chinese and English version.
+A database of Chinese Poetry in json format
+ with Chinese and English versions.
 
 
 ### Why I want to build this database?
@@ -10,27 +10,56 @@ Mainly inspired by the high-stared repository
  to provide chinese users an quick way to get 
  exposed to traditional Chinese culture. 
  Then, it occurs to me that why not build a similar 
- database, but in English? According to my experience, I notice 
- a lot of native English like to pick some Chinese culture sentences
- during their conversation.
- Hence, here comes this repository.
- This repository focuses 
+ database, but in English? According to my experience, I notice that
+ a lot of native English speakers like to pick some Chinese culture sentences
+ during their conversation. To enrich their understanding of Chinese culture,
+ this repository is born.
+ The repository focuses 
  on offering developers who are native English speakers and 
  interested in traditional Chinese culture an original database 
- to add to their project, forming an mysterious beauty from 
+ which can be used to their projects, forming an mysterious beauty from 
  ancient China. 
 
 
 
 ### How does this repository work?
 The repository is written in json format, and organized the
-document tree like dynasties-poets-works. By the way,<b> 
+document tree as dynasties-works. By the way,<b> 
 repository is still constructing.  </b>
 
-##### An vivid example:
+##### A concrete example:
+Tree:
+
+——————————json
+
+—————id
+
+—————English
+
+——title
+
+——dynasty
+
+——author
+
+——content
+
+—————Chinese
+
+——title
+
+——dynasty
+
+——author
+
+——content
+
+—————tag      
 ```json
 [
     {
+    "id": "1-0001",
+    
     "English":{
       "title":"Home-Coming",
       "dynasty":"Tang",
@@ -53,14 +82,15 @@ repository is still constructing.  </b>
       "乡音无改鬓毛衰。",
       "儿童相见不相识，",
       "笑问客从何处来。"
-      ],
+      ]
+      },
       
      "tags": [
      "homesick"
      ]
     }
      
-    }
+    
  ]
 
 
@@ -68,7 +98,7 @@ repository is still constructing.  </b>
 ## License
 
 Chinese_Poetry_Bilingual is published under the<b> 
-Apache License, Version 2.0.<\b>
+Apache License, Version 2.0.</b>
 
 Thanks for your supporting to use it. 
 
