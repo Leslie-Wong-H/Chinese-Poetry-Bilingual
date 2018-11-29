@@ -24,15 +24,16 @@ Mainly inspired by the high-stared repository
 
 ### How does this repository work?
 The repository is written in json format, and organized the
-document tree as dynasties-works. By the way,<b> 
-repository is still constructing.  </b>
+document tree as dynasties-works. 
 
-##### A concrete example:
+Id format: \*\-****      eg. 1-0001  
+The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
+
 Tree:
 
 ——————————json
 
-—————id
+—————id 
 
 —————English
 
@@ -55,6 +56,10 @@ Tree:
 ——content
 
 —————tag      
+
+By the way,<b>the repository is still constructing.  </b>
+
+##### A concrete example:
 ```json
 [
     {
