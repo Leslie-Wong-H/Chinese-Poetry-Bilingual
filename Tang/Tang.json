@@ -1059,4 +1059,355 @@
     },
 
 
- ]
+  {
+      "id":"1-0031",
+
+    "English":{
+      "title":"Going up the Hill",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "I go by slanting stony path to the cold hill;",
+        "Where rise white cloudy, there appear cottages and bowers.",
+        "I stop my cab in maple woods to gaze my fill;",
+        "Frost-bitten leaves look redder than early spring flowers."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "山行",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "远上寒山石径斜，",
+        "白云生处有人家。",
+        "停车坐爱枫林晚，",
+        "霜叶红于二月花。"
+      ]
+    },
+     "tags": [
+       "mountain",
+       "landscape"
+     ]
+    },
+
+
+  {
+      "id":"1-0032",
+
+    "English":{
+      "title":"The Mourning Day",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "A drizzling rain falls like tears on the mourning day;",
+        "The mourner's heart is going to break on his way.",
+        "\"Where can a wine-shop be found to drown my sad hours?\"",
+        "A cowherd points to a cot amid apricot flowers."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "清明",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "清明时节雨纷纷，",
+        "路上行人欲断魂。",
+        "借问酒家何处有，",
+        "牧童遥指杏花村。"
+      ]
+    },
+     "tags": [
+       "sadness",
+       "landscape"
+     ]
+    },
+
+
+  {
+      "id":"1-0033",
+
+    "English":{
+      "title":"An Autumn Night",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "Autumn has chilled the painted screen in candlelight;",
+        "A palace maid uses a fan to catch fireflies.",
+        "The steps seem steeped in water when cold grows the night;",
+        "She sits to watch two stars in love meet in the skies."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "秋夕",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "银烛秋光冷画屏，",
+        "轻罗小扇扑流萤。",
+        "天阶夜色凉如水，",
+        "卧看牵牛织女星。"
+      ]
+    },
+     "tags": [
+       "night",
+       "silence"
+     ]
+    },
+
+
+  {
+      "id":"1-0034",
+
+    "English":{
+      "title":"The Summer Palace",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "Viewed from afar, the hills paved with brocades in piles,",
+        "The palace doors on hilltops opened one by one.",
+        "A steed raising red dust won the fair mistress' smiles.",
+        "How many steeds bringing her fruit died on the run!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "过华清宫",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "长安回望绣成堆，",
+        "山顶千门次第开。",
+        "一骑红尘妃子笑，",
+        "无人知是荔枝来。"
+      ]
+    },
+     "tags": [
+       "history"
+     ]
+    },
+
+
+  {
+      "id":"1-0035",
+
+    "English":{
+      "title":"The Red Cliff",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "We dig out broken halberds buried in the sand,",
+        "And wash and rub these relics of an ancient war.",
+        "Had the east wind refused to give a helping hand,",
+        "Southern beauties would have been captives on northern shore."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "赤壁",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "折戟沉沙铁未销，",
+        "自将磨洗认前朝。",
+        "东风不与周郎便，",
+        "铜雀春深锁二乔。"
+      ]
+    },
+     "tags": [
+       "history"
+     ]
+    },
+
+
+  {
+      "id":"1-0036",
+
+    "English":{
+      "title":"Moored on River Qinhuai",
+      "dynasty":"Tang",
+      "author": "Du Mu",
+      "content":[
+        "Cold river with sand bars veiled in misty moonlight,",
+        "I moor on River Qinhuai near wineshops at night.",
+        "The songstress knowing not the grief of conquered land,",
+        "Still sings the song composed by a captive king's hand."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "泊秦淮",
+      "dynasty": "唐",
+      "author": "杜牧",
+      "content": [
+        "烟笼寒水月笼沙，",
+        "夜泊秦淮近酒家。",
+        "商女不知亡国恨，",
+        "隔江犹唱后庭花。"
+      ]
+    },
+     "tags": [
+       "history"
+     ]
+    },
+
+
+  {
+      "id":"1-0037",
+
+    "English":{
+      "title":"On the Plain of Tombs",
+      "dynasty":"Tang",
+      "author": "Li Shangyin",
+      "content":[
+        "At dusk my heart is filled with gloom;",
+        "I drive my cab to ancient tomb.",
+        "The setting sun seems so sublime,",
+        "O but 'tis near its dying time!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "登乐游原",
+      "dynasty": "唐",
+      "author": "李商隐",
+      "content": [
+        "向晚意不适，",
+        "驱车登古原。",
+        "夕阳无限好，",
+        "只是近黄昏。"
+      ]
+    },
+     "tags": [
+       "history",
+       "age"
+     ]
+    },
+
+
+  {
+      "id":"1-0038",
+
+    "English":{
+      "title":"The Sad Zither",
+      "dynasty":"Tang",
+      "author": "Li Shangyin",
+      "content":[
+        "Why should the zither sad have fifty strings?",
+        "Each string, each strain evokes but vanished springs.",
+        "Dim morning dream to be a butterfly;",
+        "Amorous heart poured out in cuckoo's cry.",
+        "In moonlit pearls see tears in mermaid's eyes;",
+         "From sunburnt emerald watch vapor rise!",
+        "Such feeling cannot be recalled again;",
+        "It seemed long lost even when it was felt then."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "锦瑟",
+      "dynasty": "唐",
+      "author": "李商隐",
+      "content": [
+        "锦瑟无端五十弦，",
+        "一弦一柱思华年。",
+        "庄生晓梦迷蝴蝶，",
+        "望帝春心托杜鹃。",
+        "沧海月明珠有泪，",
+        "蓝田日暖玉生烟。",
+        "此情可待成追忆，",
+        "只是当时已惘然。"
+      ]
+    },
+     "tags": [
+       "history",
+       "homesick"
+     ]
+    },
+
+
+  {
+      "id":"1-0039",
+
+    "English":{
+      "title":"Written on a Rainy Night to a Friend in the North",
+      "dynasty":"Tang",
+      "author": "Li Shangyin",
+      "content":[
+        "You ask me when I can come back but I don't know.",
+        "The pools in Western Hills with autumn rain overflow.",
+        "When by our window can we trim the wicks again",
+        "And talk about this endless dreary night of rain?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "夜雨寄北",
+      "dynasty": "唐",
+      "author": "李商隐",
+      "content": [
+        "君问归期未有期，",
+        "巴山夜雨涨秋池。",
+        "何当共剪西窗烛，",
+        "却话巴山夜雨时。"
+      ]
+    },
+     "tags": [
+       "love",
+       "homesick"
+     ]
+    },
+
+
+  {
+      "id":"1-0040",
+
+    "English":{
+      "title":"Early Departure",
+      "dynasty":"Tang",
+      "author": "Wen Tingyun",
+      "content":[
+        "At dawn I rise and my cab bells begin",
+        "To ring, but in thoughts of home I am lost.",
+        "The cock crows as the moon sets over thatched inn;",
+        "Footprints are left on wood bridge paved with frost.",
+        "The mountain path is covered with oak leaves;",
+        "The posthouse bright with blooming orange trees.",
+        "The dream of my homeland still haunts and grieves",
+        "With mallards playing on the pool with geese."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "商山早行",
+      "dynasty": "唐",
+      "author": "温庭筠",
+      "content": [
+        "晨起动征铎，",
+        "客行悲故乡。",
+        "鸡声茅店月，",
+        "人迹板桥霜。"
+        "槲叶落山路，"
+        "枳花明驿墙。"
+        "因思杜陵梦，"
+        "凫雁满回塘。"
+      ]
+    },
+     "tags": [
+       "silence",
+       "homesick"
+     ]
+    },
+]
