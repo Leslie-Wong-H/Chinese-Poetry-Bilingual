@@ -1398,10 +1398,10 @@
         "晨起动征铎，",
         "客行悲故乡。",
         "鸡声茅店月，",
-        "人迹板桥霜。"
-        "槲叶落山路，"
-        "枳花明驿墙。"
-        "因思杜陵梦，"
+        "人迹板桥霜。",
+        "槲叶落山路，",
+        "枳花明驿墙。",
+        "因思杜陵梦，",
         "凫雁满回塘。"
       ]
     },
@@ -1410,4 +1410,321 @@
        "homesick"
      ]
     },
+
+
+  {
+      "id":"1-0041",
+
+    "English":{
+      "title":"A Fisherman",
+      "dynasty":"Tang",
+      "author": "Liu Zongyuan",
+      "content":[
+        "Under western cliff a fisherman passes the night;",
+        "At dawn he makes bamboo fire to boil water clean.",
+        "Mist clears off at sunrise but there's no man in sight;",
+        "Only the fisherman's song turns hill and rill green.",
+        "He goes down mid-stream and turns to look on the sky.",
+        "What does he see but clouds freely wafting on high."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "渔翁",
+      "dynasty": "唐",
+      "author": "柳宗元",
+      "content": [
+        "渔翁夜傍西岩宿，",
+        "晓汲清湘燃楚竹。",
+        "烟销日出不见人，",
+        "欸乃一声山水绿。",
+        "回看天际下中流，",
+        "岩上无心云相逐。"
+      ]
+    },
+     "tags": [
+       "night",
+       "silence"
+     ]
+    },
+
+
+  {
+      "id":"1-0042",
+
+    "English":{
+      "title":"On Hearing Bai Juyi Degraded to Riverside Town",
+      "dynasty":"Tang",
+      "author": "Yuan Zhen",
+      "content":[
+        "In flameless dying lamplight heavy shadows creep;",
+        "Tonight I'm told you're degraded to the city old.",
+        "Before death, I rise from bed in surprise deep;",
+        "The dark wind blows the rain into my window cold."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "闻乐天左降江州司马",
+      "dynasty": "唐",
+      "author": "元稹",
+      "content": [
+        "残灯无焰影幢幢，",
+        "此夕闻君谪九江。",
+        "垂死病中惊坐起，",
+        "暗风吹雨入寒窗。"
+      ]
+    },
+     "tags": [
+       "leave",
+       "friendship"
+     ]
+    },
+
+
+  {
+      "id":"1-0043",
+
+    "English":{
+      "title":"Song of Li Ping's Twenty-three Strings",
+      "dynasty":"Tang",
+      "author": "Li He",
+      "content":[
+        "The Southern strings on Western chest played in autumn high,",
+        "The congealed clouds over empty mountains will not fly.",
+        "The lutists after the king's death would weep to hear",
+         "Li Ping playing his twenty-three strings and feel drear.",
+         "Broken jade or dew-shedding lotus is not more sad;",
+         "Nor is phoenix' song or sweet orchid's smile more glad.",
+         "Before the Twelve Gates melts away cold light aglow;",
+         "His twenty-three strings move emperors high and low.",
+         "The Goddess forgets to mend the sky with might and main;",
+         "The stones fall down from on high like torrential rain.",
+         "Celestial lutists wake from dreams in mountains deep;",
+         "Slender dragons dance and old fish on the waves leap.",
+         "The sleepless woodcutter leans on the laurel tree;",
+         "The rabbit wet and cold with dew crouches with glee."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "李凭箜篌引",
+      "dynasty": "唐",
+      "author": "李贺",
+      "content": [
+        "吴丝蜀桐张高秋，",
+        "空白凝云颓不流。",
+        "江娥啼竹素女愁，",
+        "李凭中国弹箜篌。",
+        "昆山玉碎凤凰叫，",
+        "芙蓉泣露香兰笑。",
+        "十二门前融冷光，",
+        "二十三丝动紫皇。",
+        "女娲炼石补天处，",
+        "石破天惊逗秋雨。",
+        "梦入坤山教神妪，",
+        "老鱼跳波瘦蛟舞。",
+        "吴质不眠倚桂树，",
+        "露脚斜飞湿寒兔。"
+      ]
+    },
+     "tags": [
+       "music",
+       "friendship"
+     ]
+    },
+
+
+  {
+      "id":"1-0044",
+
+    "English":{
+      "title":"Song of the Swan Gate",
+      "dynasty":"Tang",
+      "author": "Li He",
+      "content":[
+        "Dark clouds over the town threaten to crush it down;",
+        "Like golden scales the armor glistens in sunlight.",
+        "Blowing up to the sky, horns take an autumn dye;",
+         "Rougelike blood on the frontier turns violet at night.",
+         "With red flags half furled up, our troops come near North Stream;",
+         "Muffled by heavy frost, their drumbeats can't be heard.",
+         "To fulfill the sovereign's Golden Tower dream,",
+         "Jade dragon sword in hand, they'd die without a word."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "雁门太守行",
+      "dynasty": "唐",
+      "author": "李贺",
+      "content": [
+        "黑云压城城欲摧，",
+        "甲光向日金鳞开。",
+        "角声满天秋色里，",
+        "塞上燕脂凝夜紫。",
+        "半卷红旗临易水，",
+        "霜重鼓寒声不起。",
+        "报君黄金台上意，",
+        "提携玉龙为君死。"
+      ]
+    },
+     "tags": [
+       "border",
+       "honor"
+     ]
+    },
+
+
+  {
+      "id":"1-0045",
+
+    "English":{
+      "title":"Song of White Snow in Farewell to Secretary Wu Going Back to the Capital",
+      "dynasty":"Tang",
+      "author": "Cen Shen",
+      "content":[
+        "Snapping the pallid grass, the northern wind whirls low;",
+        "In the eighth moon the Tartar sky is filled with snow",
+        "As if the vernal breeze had come back overnight,",
+         "Adorning thousands of pear trees with blossoms white.",
+         "Flakes enter pearled blinds and wet the silken screen;",
+         "No furs of fox can warm us nor brocade quilts green.",
+        "The general cannot draw his rigid bow with ease;",
+        "Even the commissioner in coat of mail would freeze.",
+        "A thousand feet over cracked wilderness ice piles,",
+        "And gloomy clouds hang sad and drear for miles and miles.",
+        "We drink in headquarters to our guest homeward bound;",
+        "With Tartar lutes, pipas and pipes the camps resound.",
+        "Snow in large flakes at dusk falls heavy on camp gate;",
+        "The frozen red flag in the wind won't undulate.",
+        "At eastern gate of Wheel Tower we bid goodbye",
+        "On the snow-covered road to Heaven's Mountain high.",
+         "I watch his horse go past a bend and, lost to sight,",
+         "His track will soon be buried up by snow in flight."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "白雪歌送武判官归京",
+      "dynasty": "唐",
+      "author": "岑参",
+      "content": [
+        "北风卷地白草折，",
+        "胡天八月即飞雪。",
+        "忽如一夜春风来，",
+        "千树万树梨花开。",
+        "散入珠帘湿罗幕，",
+        "狐裘不暖锦衾薄。",
+        "将军角弓不得控，",
+        "都护铁衣冷犹著。",
+        "瀚海阑干百丈冰，",
+        "愁云惨淡万里凝。",
+        "中军置酒饮归客，",
+        "胡琴琵琶与羌笛。",
+        "纷纷暮雪下辕门，",
+        "风掣红旗冻不翻。",
+        "轮台东门送君去，",
+        "去时雪满天山路。",
+        "山回路转不见君，",
+        "雪上空留马行处。"
+      ]
+    },
+     "tags": [
+       "border",
+       "friendship"
+     ]
+    },
+
+
+  {
+      "id":"1-0046",
+
+    "English":{
+      "title":"Yellow Crane Tower",
+      "dynasty":"Tang",
+      "author": "Cui Hao",
+      "content":[
+        "The sage on yellow crane was gone amid clouds white.",
+        "To what avail is Yellow Crane Tower left here?",
+        "Once gone, the yellow crane will never on earth alight;",
+         "Only white clouds still float in vain from year to year.",
+         "By sunlit river trees can be counted one by one;",
+         "On Parrot Islet sweet green grass grows fast and thick.",
+        "Where is my native land beyond the setting sun?",
+        "The mist-veiled waves of River Han make me homesick."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "黄鹤楼",
+      "dynasty": "唐",
+      "author": "崔颢",
+      "content": [
+        "昔人已乘黄鹤去，",
+        "此地空余黄鹤楼。",
+        "黄鹤一去不复返，",
+        "白云千载空悠悠。",
+        "晴川历历汉阳树，",
+        "芳草萋萋鹦鹉洲。",
+        "日暮乡关何处是，",
+        "烟波江上使人愁。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "homesick"
+     ]
+    },
+
+
+
+
+  {
+      "id":"1-0047",
+
+    "English":{
+      "title":"Written for My Grandnephew at the Blue Pass",
+      "dynasty":"Tang",
+      "author": "Han Yu",
+      "content":[
+        "To the Celestial Court a proposal was made,",
+        "And I'm banished eight thousand miles away.",
+        "To undo the misdeeds I would have given aid.",
+         "Dare I have spared myself with powers in decay?",
+         "The Ridge veiled in barred clouds, my home can't be seen;",
+         "The Blue Pass covered by snow, my horse won't forward go.",
+        "You have come from afar and I know what you mean;",
+        "Not to leave my bones there where misty waters flow."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "左迁至蓝关示侄孙湘",
+      "dynasty": "唐",
+      "author": "韩愈",
+      "content": [
+        "一封朝奏九重天，",
+        "夕贬潮州路八千。",
+        "欲为圣明除弊事，",
+        "肯将衰朽惜残年。",
+        "云横秦岭家何在，",
+        "雪拥蓝关马不前。",
+        "知汝远来应有意，",
+        "好收吾骨瘴江边。"
+      ]
+    },
+     "tags": [
+       "ambition",
+       "reunion"
+     ]
+    }
+
 ]
