@@ -1725,6 +1725,127 @@
        "ambition",
        "reunion"
      ]
+    },
+
+
+  {
+      "id":"1-0048",
+
+    "English":{
+      "title":"Farewell beyond the Thorn-gate Gorge",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Leaving Mount Thorn-gate far away,",
+        "My boat pursues its eastward way.",
+        "Where mountains end begins the plain;",
+         "The river rolls to boundless main.",
+         "The moon, celestial mirror, flies;",
+         "The clouds like miraged towers rise.",
+        "The water that from homeland flows",
+        "Will follow me where my boat goes."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "渡荆门送别",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "渡远荆门外，",
+        "来从楚国游。",
+        "山随平野尽，",
+        "江入大荒流。",
+        "月下飞天境，",
+        "云生结海楼。",
+        "仍怜故乡水，",
+        "万里送行舟。"
+      ]
+    },
+     "tags": [
+       "homesick",
+       "voyage"
+     ]
+    },
+
+
+  {
+      "id":"1-0049",
+
+    "English":{
+      "title":"Hard is the Way of the World",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Pure wine in golden cup costs ten thousand coins, good!",
+        "Choice dish in a jade plate is worth as much, nice food!",
+        "Pushing aside my cup and chopsticks, I can't eat;",
+        "Drawing my sword and looking round, I hear my heart beat.",
+        "I cant cross Yellow River: ice has stopped its flow;",
+        "I cant climb Mount Taihang: the sky is blind with snow.",
+        "I poise a fishing pole with ease on the green stream",
+        "Or set sail for the sun like the sage in a dream.",
+        "Hard is the way, Hard is the way.",
+        "Don't go astray! Whither today?",
+        "A time will come to ride the wind and cleave the waves;",
+        "I'll set my cloudlike sail to cross the sea which raves."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "行路难",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "金樽清酒斗十千，",
+        "玉盘珍馐直万钱。",
+        "停杯投箸不能食，",
+        "拔剑四顾心茫然。",
+        "欲渡黄河冰塞川，",
+        "将登太行雪满山。",
+        "闲来垂钓碧溪上，",
+        "忽复乘舟梦日边。"
+      ]
+    },
+     "tags": [
+       "frustration"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0050",
+
+    "English":{
+      "title":"Joking with Du Fu",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "On top of Hill of Boiled Rice I met with Du Fu,",
+        "Who in the noonday sun wore a hat of bamboo.",
+        "Pray, how could you have grown so thin since we did part?",
+        "Is it because the verse-composing wrung your heart?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "戏赠杜甫",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "饭颗山头逢杜甫，",
+        "顶戴笠子日卓午。",
+        "借问别来太瘦生，",
+        "总为从前作诗苦。"
+      ]
+    },
+     "tags": [
+       "friendship"
+     ]
     }
 
 ]
