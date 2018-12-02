@@ -240,7 +240,8 @@
     },
      "tags": [
        "border",
-       "dream"
+       "dream",
+       "honor"
      ]
     },
 
@@ -275,7 +276,8 @@
     },
      "tags": [
        "border",
-       "dream"
+       "dream",
+       "honor"
      ]
     },
 
@@ -309,7 +311,7 @@
       ]
     },
      "tags": [
-       "rainy",
+       "farewell",
        "homesick"
      ]
     },
@@ -345,7 +347,7 @@
       ]
     },
      "tags": [
-       "alone",
+       "solitude",
        "silence"
      ]
     },
@@ -670,7 +672,7 @@
     },
      "tags": [
        "spring",
-       "alone"
+       "solitude"
      ]
     },
 
@@ -944,7 +946,7 @@
     },
      "tags": [
        "optimism",
-       "season"
+       "autumn"
      ]
     },
 
@@ -1478,7 +1480,7 @@
       ]
     },
      "tags": [
-       "leave",
+       "farewell",
        "friendship"
      ]
     },
@@ -1846,6 +1848,447 @@
      "tags": [
        "friendship"
      ]
-    }
+    },
 
+
+  {
+      "id":"1-0051",
+
+    "English":{
+      "title":"Solitude",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "I'm drunk with wine",
+        "And with moonshine,",
+        "With flowers fallen o'er the ground",
+        "And o'er me the blue-gowned.",
+        "Sobered, I stroll along the stream",
+        "Whose ripples gleam.",
+        "I see no bird",
+        "And hear no word."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "自遣",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "对酒不觉暝，",
+        "落花盈我衣。",
+        "醉起步溪月，",
+        "鸟还人亦稀。"
+      ]
+    },
+     "tags": [
+       "solitude",
+       "silence"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0053",
+
+    "English":{
+      "title":"The Ruin of the Capital of Yue",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "The king of Yue returned, having destroyed the foe;",
+        "His loyal men came home, with silken dress aglow.",
+        "His palace thronged with flower-like ladies fair;",
+        "Now we see but a flock of partridges flying there."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "越中览古",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "越王勾践破吴归，",
+        "义士还家尽锦衣。",
+        "宫女如花满春殿，",
+        "只今惟有鹧鸪飞。"
+      ]
+    },
+     "tags": [
+       "history"
+     ]
+    },
+
+
+  {
+      "id":"1-0054",
+
+    "English":{
+      "title":"Farewell to Uncle Yun, the Imperial Librarian, at Xie Tiao's Pavilion in Xuanzhou",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "What left me yesterday",
+        "Can be retained no more;",
+        "What troubles me today",
+        "Is the times for which I feel sore.",
+        "In autumn wind for miles and miles the wild geese fly,",
+        "Let's drink, in face of this, in the pavilion high.",
+        "Your writing's forcible like ancient poets while",
+        "Mine is in Junior Xie's clear and spirited style.",
+        "Both of us have an ideal high;",
+        "We would reach the moon in the sky.",
+        "Cut running water with a sword, 'twill faster flow;",
+        "Drink wine to drown your sorrow, it will heavier grow.",
+        "If we despair of all human affairs,",
+        "Let us roam in a boat with loosened hairs!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "宣州谢朓楼饯别校书叔云",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "弃我去者，",
+        "昨日之日不可留；",
+        "乱我心者，",
+        "今日之日多烦忧。",
+        "长风万里送秋雁，",
+        "对此可以酣高楼。",
+        "蓬莱文章建安骨，",
+        "中间小谢又清发。",
+        "俱怀逸兴壮思飞，",
+        "欲上青天览明月。",
+        "抽刀断水水更流，",
+        "举杯销愁愁更愁。",
+        "人生在世不称意，",
+        "明朝散发弄扁舟。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "sadness",
+       "ambition"
+     ]
+    },
+
+
+  {
+      "id":"1-0055",
+
+    "English":{
+      "title":"Sitting Alone in Face of Peak Jingting",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "All birds have flown away, so high;",
+        "A lonely cloud drifts on, so free.",
+        "Gazing on Mount Jingting, nor I",
+        "Am tired of him, nor he of me."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "独坐敬亭山",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "众鸟高飞尽，",
+        "孤云独去闲。",
+        "相看两不厌，",
+        "只有敬亭山。"
+      ]
+    },
+     "tags": [
+       "solitude",
+       "mountain"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0056",
+
+    "English":{
+      "title":"My White Hair",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Long, long is my whitening hair;",
+        "Long, long is it laden with care.",
+        "I look into my mirror bright:",
+        "From where comes autumn frost in sight?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "秋浦歌",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "白发三千丈，",
+        "缘愁似个长。",
+        "不知明镜里，",
+        "何处得秋霜？"
+      ]
+    },
+     "tags": [
+       "sadness"
+     ]
+    },
+
+
+  {
+      "id":"1-0057",
+
+    "English":{
+      "title":"To Wang Lun",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "I, Li Bai, sit aboard a ship about to go,",
+        "When suddenly on shore your farewell songs o'erflow.",
+        "However deep the Lake of Peach Blossoms may be,",
+        "It's not so deep, O Wang Lun! As your love for me."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "赠汪伦",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "李白乘舟将欲行，",
+        "忽闻岸上踏歌声。",
+        "桃花潭水深千尺，",
+        "不及汪伦送我情。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "friendship"
+     ]
+    },
+
+
+  {
+      "id":"1-0058",
+
+    "English":{
+      "title":"Leaving the White Emperor Town at Dawn",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Leaving at dawn the White Emperor crowned with cloud;",
+        "I've sailed a thousand miles through Gorges in a day.",
+        "With monkeys' sad adieux the riverbanks are loud;",
+        "My skiff has left ten thousand mountains far away."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "早发白帝城",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "朝辞白帝彩云间，",
+        "千里江陵一日还。",
+        "两岸猿声啼不住，",
+        "轻舟已过万重山。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "mountain"
+     ]
+    },
+
+
+  {
+      "id":"1-0059",
+
+    "English":{
+      "title":"Mount Skyland Ascended in a Dream -- A Song of Farewell",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Of fairy isles seafarers speak,",
+        "'Mid dimming mist and surging waves, so hard to seek;",
+        "Of Skyland Southerners are proud,",
+        "Perceivable through fleeting or dispersing cloud.",
+        "Mount Skyland threatens heaven, massed against the sky,",
+        "Surpassing the Five Peaks and dwarfing Mount Red Town.",
+        "Mount Heaven's Terrace, five hundred thousand feet high,",
+        "Nearby to the southeast, appears to crumbled down.",
+        "Longing in dreams for Southern land, one night",
+        "I flew o'er Mirror Lake in moonlight.",
+        "My shadow's followed by moonbeams",
+        "Until I reach Shimmering Streams,",
+        "Where Hermitage of Master Xie can still be seen,",
+        "And clearly gibbons wail ơ'er rippling water green.",
+        "I put Xie's pegged boot",
+        "Each on one foot,",
+        "And scale the mountain ladder to blue cloud.",
+        "On eastern cliff I see",
+        "Sunrise at sea,",
+        "And in mid-air I hear sky-cock crow loud.",
+        "The footpath meanders 'mid a thousand crags in the vale,",
+        "I'm lured by rocks and flowers when the day turns pale.",
+        "Bears roar and dragons howl and thunders the cascade,",
+        "Deep forests quake and ridges tremble: they are afraid!",
+        "From dark, dark cloud comes rain;",
+        "On pale, pale waves mists plane.",
+        "Oh! lightning flashes",
+        "And thunder rumbles,",
+        "With stunning crashes",
+        "Peak on peak crumbles.",
+        "The stone gate of a fairy cavern under",
+        "Suddenly breaks asunder.",
+        "So blue, so deep, so vast appears an endless sky,",
+        "Where sun and moon shine on gold and silver terraces high.",
+        "Clad in the rainbow, riding on the wind,",
+        "The Lords of Clouds descend in a procession long.",
+        "Their chariots drawn by phoenix disciplined,",
+        "And tigers playing for them a zither song.",
+        "Row upon row, like fields of hemp, immortals throng.",
+        "Suddenly my heart and soul stirred, I",
+        "Awake with a long, long sigh.",
+        "I find my head on pillow lie",
+        "And fair visions gone by.",
+        "Likewise all human joys will pass away",
+        "Just as east-flowing water of olden day.",
+        "I'll take my leave of you, not knowing for how long.",
+        "I'll tend a white deer among",
+        "The grassy slopes of the green hill",
+        "So that I may ride it to famous mountains at will.",
+        "How can I stoop and bow before the men in power",
+        "And so deny myself a happy hour!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "梦游天姥吟留别",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "海客谈瀛洲，",
+        "烟涛微茫信难求。",
+        "越人语天姥，",
+        "云霞明灭或可睹。",
+        "天姥连天向天横，",
+        "势拔五岳掩赤城。",
+        "天台四万八千丈，",
+        "对此欲倒东南倾。",
+        "我欲因之梦吴越，",
+        "一夜飞度镜湖月。",
+        "湖月照我影，",
+        "送我至剡溪。",
+        "谢公宿处今尚在，",
+        "渌水荡漾清猿啼。",
+        "脚著谢公屐，",
+        "身登青云梯。",
+        "半壁见海日，",
+        "空中闻天鸡。",
+        "千岩万转路不定，",
+        "迷花倚石忽已暝。",
+        "熊咆龙吟殷岩泉，",
+        "栗深林兮惊层巅。",
+        "云青青兮欲雨，",
+        "水澹澹兮生烟。",
+        "列缺霹雳，",
+        "丘峦崩摧。",
+        "洞天石扇，",
+        "訇然中开。",
+        "青冥浩荡不见底，",
+        "日月照耀金银台。",
+        "霓为衣兮风为马，",
+        "云之君兮纷纷而来下。",
+        "虎鼓瑟兮鸾回车，",
+        "仙之人兮列如麻。",
+        "忽魂悸以魄动，",
+        "怳惊起而长嗟。",
+        "惟觉时之枕席，",
+        "失向来之烟霞。",
+        "世间行乐亦如此，",
+        "古来万事东流水。",
+        "别君去时何时还？",
+        "且放白鹿青崖间，",
+        "须行即骑访名山。",
+        "安能摧眉折腰事权贵,",
+        "使我不得开心颜！"
+      ]
+    },
+     "tags": [
+       "ambition",
+       "mountain",
+       "landscape"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0060",
+
+    "English":{
+      "title":"Drinking Alone under the Moon",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Among the flowers, from a pot of wine",
+        "I drink without a companion of mine.",
+        "I raise my cup to invite the Moon who blends",
+        "Her light with my Shadow and we're three friends.",
+        "The Moon does not know how to drink her share;",
+        "In vain my shadow follows me here and there.",
+        "Together with them for the time I stay,",
+        "And make merry before spring's spent away.",
+        "I sing and the Moon lingers to hear my song;",
+        "My Shadow's a mess while I dance along.",
+        "Sober, we three remain cheerful and gay;",
+        "Drunken, we part and each may go his way.",
+        "Our friendship will outshine all earthly love;",
+        "Next time we'll meet beyond the stars above."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "月下独酌",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "花间一壶酒，",
+        "独酌无相亲。",
+        "举杯邀明月，",
+        "对影成三人。",
+        "月既不解饮，",
+        "影徒随我身。",
+        "暂伴月将影，",
+        "行乐须及春。",
+        "我歌月徘徊，",
+        "我舞影零乱。",
+        "醒时同交欢，",
+        "醉后各分散。",
+        "永结无情游，",
+        "相期邈云汉。"
+      ]
+    },
+     "tags": [
+       "moon",
+       "solitude",
+       "silence"
+     ]
+    }
 ]

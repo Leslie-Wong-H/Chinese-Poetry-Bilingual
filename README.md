@@ -26,40 +26,30 @@ Mainly inspired by the high-stared repository
 The repository is written in json format, and organized the
 document tree as dynasties-works. 
 
-Id format: \*\-****      eg. 1-0001  
+Id format: \*\-****  
+    eg. 1-0001  
 The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 
-Tree:
+### Directories
+```
+.
+├── id
+├── English
+    ├── title
+    ├── dynasty
+    ├── author
+    └── content
+├── Chinese
+    ├── title
+    ├── dynasty
+    ├── author
+    └── content
+└── tag
+```
 
-——————————json
+<b>By the way,the repository is still constructing.</b>
 
-—————id 
-
-—————English
-
-——title
-
-——dynasty
-
-——author
-
-——content
-
-—————Chinese
-
-——title
-
-——dynasty
-
-——author
-
-——content
-
-—————tag      
-
-By the way,<b>the repository is still constructing.  </b>
-
-##### A concrete example:
+#### A concrete example:
 ```json
 [
     {
@@ -100,7 +90,38 @@ By the way,<b>the repository is still constructing.  </b>
 
 
 ```
-## License
+### Tag Classification
+> 
+>    - Age 
+>    - Ambition
+>    - Autumn
+>    - Border
+>    - Class
+>    - Dream
+>    - Farewell
+>    - Friendship
+>    - Frustration
+>    - History
+>    - Homesick
+>    - Honor
+>    - Landscape
+>    - Love
+>    - Mountain
+>    - Music
+>    - Night
+>    - Optimism
+>    - Reunion
+>    - Sadness
+>    - Season
+>    - Silence
+>    - Solitude
+>    - Spring
+>    - Summer
+>    - Voyage
+>    - Windy
+>    - Winter
+>
+### License
 
 Chinese_Poetry_Bilingual is published under the<b> 
 Apache License, Version 2.0.</b>
