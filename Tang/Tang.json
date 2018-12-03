@@ -2290,5 +2290,160 @@
        "solitude",
        "silence"
      ]
+    },
+
+
+  {
+      "id":"1-0061",
+
+    "English":{
+      "title":"The Waterfall in Mount Lu Viewed from Afar",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "The sunlit Censer Peak exhales incenselike cloud;",
+        "Like an upended stream the cataract sounds loud.",
+        "Its torrent dashes down three thousand feet from high",
+        "As if the Silver River fell from the blue sky."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "望庐山瀑布",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "日照香炉生紫烟，",
+        "遥看瀑布挂前川。",
+        "飞流直下三千尺，",
+        "疑是银河落九天。"
+      ]
+    },
+     "tags": [
+       "mountain",
+       "landscape"
+     ]
+    },
+
+
+  {
+      "id":"1-0062",
+
+    "English":{
+      "title":"A Faithful Wife Longing for Her Husband in Spring",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "With Northern grass like green silk thread,",
+        "Western mulberries bend their head.",
+        "When you think of home on your part,",
+        "Already broken is my heart.",
+        "Vernal wind, intruder unseen,",
+        "O how dare you part my bed-screen!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "春思",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "燕草如碧丝，",
+        "秦桑低绿枝。",
+        "当君怀归日，",
+        "是妾断肠时。",
+        "春风不相识，",
+        "何事入罗帏？"
+      ]
+    },
+     "tags": [
+       "spring",
+       "love",
+       "sadness"
+     ]
+    },
+
+
+  {
+      "id":"1-0063",
+
+    "English":{
+      "title":"Invitation to Wine",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Do you not see the Yellow River come from the sky,",
+        "Rushing into the sea and ne'er come back?",
+        "Do you not see the mirrors bright in chambers high",
+        "Grieve o'er your snow-white hair though once it was silk black?",
+        "When hopes are won, oh! drink your fill in high delight,",
+        "And never leave your wine-cup empty in moonlight!",
+        "Heaven has made us talents, we're not made in vain.",
+        "A thousand gold coins spent, more will turn up again.",
+        "Kill a cow, cook a sheep and let us merry be,",
+        "And drink three hundred cupfuls of wine in high glee!",
+        "Dear friends of mine,",
+        "Cheer up, cheer up!",
+        "I invite you to wine.",
+        "Do not put down your cup!",
+        "I will sing you a song ,please hear,",
+        "O hear! lend me a willing ear!",
+        "What difference will rare and costly dishes make?",
+        "I only want to get drunk and never to wake.",
+        "How many great men were forgotten through the ages?",
+        "But great drinkers are more famous than sober sages.",
+        "The Prince of Poets feast'd in his palace at will,",
+        "Drank wine at ten thousand a cask and laughed his fill.",
+        "A host should not complain of money he is short,",
+        "To drink with you I will sell things of any sort,",
+        "My fur coat worth a thousand coins of gold",
+        "And my flower-dappled horse may be sold",
+        "To buy good wine that we may drown the woes age-old."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "将进酒",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "君不见黄河之水天上来，",
+        "奔流到海不复回！",
+        "君不见高堂明镜悲白发，",
+        "朝如青丝暮成雪！",
+        "人生得意须尽欢，",
+        "莫使金樽空对月。",
+        "天生我材必有用，",
+        "千金散尽还复来。",
+        "烹羊宰牛且为乐，",
+        "会须一饮三百杯。",
+        "岑夫子，",
+        "丹丘生。",
+        "将进酒，",
+        "杯莫停。",
+        "与君歌一曲，",
+        "请君为我侧耳听。",
+        "钟鼓馔玉不足贵，",
+        "但愿长醉不愿醒。",
+        "古来圣贤皆寂寞，",
+        "惟有饮者留其名。",
+        "陈王昔时宴平乐，",
+        "斗酒十千恣欢谑。",
+        "主人何为言少钱，",
+        "径须沽取对君酌。",
+        "五花马，千金裘。",
+        "呼儿将出换美酒，",
+        "与尔同销万古愁。"
+      ]
+    },
+     "tags": [
+       "optimism",
+       "wine",
+       "ambition"
+     ]
     }
+
 ]
