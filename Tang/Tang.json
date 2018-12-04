@@ -2444,6 +2444,157 @@
        "wine",
        "ambition"
      ]
+    },
+
+  {
+      "id":"1-0064",
+
+    "English":{
+      "title":"Hard is the Road to Shu",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Oho! Behold! How steep! How high!",
+        "The road to Shu is harder than to climb the sky.",
+        "Since the two pioneers",
+        "Put the kingdom in order,",
+        "Have passed forty-eight thousand years,",
+        "And few have tried to pass its border.",
+        "There's a bird track o'er Great White Mountain to the west,",
+        "Which cuts through Mountain Eyebrows by the crest.",
+        "The crest crumbled, five serpent-killing heroes slain,",
+        "Along the cliffs a rocky path was hacked then.",
+        "Above stand peaks too high for the sun to pass o'er;",
+        "Below the torrents run back and forth, churn and roar.",
+        "Even the Golden Crane can't fly across;",
+        "How to climb over, gibbons are at a loss.",
+        "What tortuous mountain path Green Mud Ridge faces!",
+        "Around the top we make nine turns each hundred paces,",
+        "Looking up breathless, I can touch the stars nearby;",
+        "Beating my breast, I sink aground with long, long sigh.",
+        "When will you come back from this journey to the west?",
+        "How can you climb up dangerous path and mountain crest,",
+        "Where you can hear on ancient trees but sad birds wail",
+        "And see the female birds fly, followed by the male?",
+        "And hear home-going cuckoos weep",
+        "Beneath the moon in mountains deep?",
+        "The road to Shu is harder than to climb the sky,",
+        "On hearing this, your cheeks would lose their rosy dye.",
+        "Between the sky and peaks there is not a foot's space,",
+        "And ancient pines hang, head down, from the cliffs' surface,",
+        "And cataracts and torrents dash on boulders under,",
+        "Roaring like thousands of echoes of thunder.",
+        "So dangerous these places are,",
+        "Alas! Why should you come here from afar?",
+        "Rugged is the path between the cliffs so steep and high,",
+        "Guarded by one",
+        "And forced by none.",
+        "Disloyal guards",
+        "Would turn wolves and pards,",
+        "Man-eating tigers at day-break",
+        "And at dusk blood-sucking long snake.",
+        "One may make merry in the Town of Silk, I know,",
+        "But I would rather homeward go.",
+        "The road to Shu is harder than to climb the sky,",
+        "I'd turn and westward look with long long sigh."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "蜀道难",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "噫吁嚱，",
+        "危乎高哉！",
+        "蜀道之难，",
+        "难于上青天！",
+        "蚕丛及鱼凫，",
+        "开国何茫然！",
+        "尔来四万八千岁，",
+        "不与秦塞通人烟。",
+        "西当太白有鸟道，",
+        "可以横绝峨嵋巅。",
+        "地崩山摧壮士死，",
+        "然后天梯石栈相钩连。",
+        "上有六龙回日之高标，",
+        "下有冲波逆折之回川。",
+        "黄鹤之飞尚不得过，",
+        "猿猱欲度愁攀援。",
+        "青泥何盘盘，",
+        "百步九折萦岩峦。",
+        "扪参历井仰胁息，",
+        "以手抚膺坐长叹。",
+        "问君西游何时还，",
+        "畏途巉岩不可攀。",
+        "但见悲鸟号古木，",
+        "雄飞从雌绕林间。",
+        "又闻子规啼夜月，",
+        "愁空山。",
+        "难于上青天！",
+        "使人听此凋朱颜。",
+        "连峰去天不盈尺，",
+        "枯松倒挂倚绝壁。",
+        "飞湍瀑流争喧豗，",
+        "砯崖转石万壑雷。",
+        "其险也如此，",
+        "嗟尔远道之人胡为乎来哉！",
+        "剑阁峥嵘而崔嵬，",
+        "一夫当关，",
+        "万夫莫开。",
+        "所守或匪亲，",
+        "化为狼与豺。",
+        "朝避猛虎，",
+        "夕避长蛇。",
+        "磨牙吮血，",
+        "杀人如麻。",
+        "锦城虽云乐，",
+        "不如早还家。",
+        "蜀道之难。",
+        "难于上青天，",
+        "侧身西望长咨嗟!"
+      ]
+    },
+     "tags": [
+       "mountain",
+       "history",
+       "frustration"
+     ]
+    },
+
+
+  {
+      "id":"1-0065",
+
+    "English":{
+      "title":"Seeing Meng Haoran off at Yellow Crane Tower",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "My friend has left the west where the Yellow Crane tower",
+        "For River Town veiled in green willows and red flowers.",
+        "His lessening sail is lost in the boundless blue sky,",
+        "Where I see but the endless River rolling by."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "送孟浩然之广陵",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "故人西辞黄鹤楼，",
+        "烟花三月下扬州。",
+        "孤帆远影碧空尽，",
+        "唯见长江天际流。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "friendship"
+     ]
     }
 
 ]
