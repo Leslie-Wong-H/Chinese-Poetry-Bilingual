@@ -2595,6 +2595,205 @@
        "farewell",
        "friendship"
      ]
-    }
+    },
 
+
+
+  {
+      "id":"1-0066",
+
+    "English":{
+      "title":"Ballad of a Trader's Wife",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "My forehead barely covered by my hair,",
+        "Outdoors I pluck'd and played with flowers fair.",
+        "On bobby horse you came upon the scene;",
+        "Around the well we played with mumes still green.",
+        "We lived, close neighbors on Riverside Lane,",
+        "Carefree and innocent, we children twain.",
+        "At fourteen years when I became your bride,",
+        "I'd often turn my bashful face aside.",
+        "Hanging my head, I'd look on the dark wall;",
+        "I would not answer your call upon call.",
+        "I was fifteen when I composed my brows;",
+        "To mix my dust with yours were my dear vows.",
+        "Rather than break faith, you declared you'd die.",
+        "Who knew I'd live alone in tower high?",
+        "I was sixteen when you went far away,",
+        "Passing Three Gorges studded with rocks grey,",
+        "Where ships were wrecked when spring flood ran high,",
+        "Where gibbons' wails seemed coming from the sky.",
+        "Green moss now overgrows before our door;",
+        "Your footprints, hidden, can be seen no more.",
+        "Moss can't be swept away, so thick it grows,",
+        "And leaves fall early when the west wind blows.",
+        "In yellow autumn butterflies would pass",
+        "Two by two in west garden o'er the grass.",
+        "This sight would break my heart and I'm afraid,",
+        "Sitting alone, my rosy cheeks would fade.",
+        "O when are you to leave the western land?",
+        "Do not forget to tell me beforehand!",
+        "I'll walk to meet you and not call it far",
+        "E'en go to Long Wind Sands where you are."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "长干行",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "妾发初覆额，",
+        "折花门前剧。",
+        "郎骑竹马来，",
+        "绕床弄青梅。",
+        "同居长干里，",
+        "两小无嫌猜。",
+        "十四为君妇，",
+        "羞颜未尝开。",
+        "低头向暗壁，",
+        "千唤不一回。",
+        "十五始展眉，",
+        "愿同尘与灰。",
+        "常存抱柱信，",
+        "岂上望夫台。",
+        "十六君远行，",
+        "瞿塘滟滪堆。",
+        "五月不可触，",
+        "猿声天上哀。",
+        "门前迟行迹，",
+        "一一生绿苔。",
+        "苔深不能扫，",
+        "落叶秋风早。",
+        "八月蝴蝶来，",
+        "双飞西园草。",
+        "感此伤妾心，",
+        "坐愁红颜老。",
+        "早晚下三巴，",
+        "预将书报家。",
+        "相迎不道远，",
+        "直至长风沙。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "frustration",
+       "love",
+       "sadness"
+     ]
+    },
+
+
+  {
+      "id":"1-0067",
+
+    "English":{
+      "title":"Thoughts on a Tranquil Night",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Before my bed a pool of light;",
+        "Oh, can it be frost on the ground?",
+        "Looking up, I find the moon bright;",
+        "Bowing, in homesickness I'm drowned."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "静夜思",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "床前明月光，",
+        "疑是地上霜。",
+        "举头望明月，",
+        "低头思故乡。"
+      ]
+    },
+     "tags": [
+       "night",
+       "homesick",
+       "silence"
+     ]
+    },
+
+
+  {
+      "id":"1-0068",
+
+    "English":{
+      "title":"Mount Heaven's Gate Viewed from Afar",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Breaking Mount Heaven's Gate, the great River rolls through;",
+        "Green billows eastward flow and here turn to the north.",
+        "From both sides of the River thrust out the cliffs blue;",
+        "Leaving the sun behind, a lonely sail comes forth."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "望天门山",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "天门中断楚江开，",
+        "碧水东流至此回。",
+        "两岸青山相对出，",
+        "孤帆一片日边来。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "mountain"
+     ]
+    },
+
+
+  {
+      "id":"1-0069",
+
+    "English":{
+      "title":"To Meng Haoran",
+      "dynasty":"Tang",
+      "author": "Li Bai",
+      "content":[
+        "Dear Master Meng, I hail you from the heart,",
+        "Of your high value all the world is proud.",
+        "Red-cheek'd, from cap to cab you kept apart;",
+        "White haired, you lie beneath the pine and cloud.",
+        "Drunken with wine as oft as with moonlight,",
+        "You love the blooms too much to serve the crown.",
+        "Of lofty mountain how to reach the height?",
+        "Wc can but breathe your fragrance the wind brings down."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "赠孟浩然",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        "吾爱孟夫子，",
+        "风流天下闻。",
+        "红颜弃轩冕，",
+        "白首卧松云。",
+        "醉月频中圣，",
+        "迷花不事君。",
+        "高山安可仰？",
+        "徒此揖清芬。"
+      ]
+    },
+     "tags": [
+       "friendship",
+       "farewell"
+     ]
+    }
 ]
