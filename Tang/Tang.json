@@ -2771,7 +2771,7 @@
         "Drunken with wine as oft as with moonlight,",
         "You love the blooms too much to serve the crown.",
         "Of lofty mountain how to reach the height?",
-        "Wc can but breathe your fragrance the wind brings down."
+        "We can but breathe your fragrance the wind brings down."
       ]
       },
 
@@ -2794,6 +2794,230 @@
      "tags": [
        "friendship",
        "farewell"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0070",
+
+    "English":{
+      "title":"A Recruiting Sergeant at Xin'an",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "I pass by Xin'an on my way",
+        "And hear sergeants call roll and bray.",
+        "I ask one of this county small",
+        "If he can draft adults at all.",
+        "Last night came order for hands green,",
+        "Draft age is lowered to eighteen.",
+        "The teenagers are small and short.",
+        "How can they hold the royal fort?",
+        "Fat sons still need their mothers' care;",
+        "Weak ones look lonely in despair.",
+        "At dusk the pale stream flows east still;",
+        "Their wails echo from hill to hill.",
+        "Don't cry until your eyes go dry!",
+        "Let no tears crisscross your face wry!",
+        "Though to skin and bone your eyes go,",
+        "No mercy would the Heaven show.",
+        "Our force should take Xiangzhou with might,",
+        "Victory expected day and night.",
+        "But rebels not easy to beat",
+        "Counter-attack, our troops retreat.",
+        "We've grain enough in our stronghold,",
+        "And training camp near capital old.",
+        "To dig deep trench you do not need;",
+        "It is not hard to tend the steed.",
+        "The royal force has at its head",
+        "General Guo by whom you're well fed.",
+        "Don't shed at parting bloody tears!",
+        "The general treats you as compeers."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "新安吏",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "客行新安道，",
+        "喧呼闻点兵。",
+        "借问新安吏，",
+        "\"县小更无丁?\"",
+        "\"府帖昨夜下，",
+        "次选中男行。\"",
+        "\"中男绝短小，",
+        "何以守王城?\"",
+        "肥男有母送，",
+        "瘦男独伶俜。",
+        "白水暮东流，",
+        "青山犹哭声。",
+        "\"莫自使眼枯，",
+        "收汝泪纵横。",
+        "眼枯即见骨，",
+        "天地终无情。",
+        "我军取相州，",
+        "日夕望其平。",
+        "岂意贼难料，",
+        "归军星散营。",
+        "就粮近故垒，",
+        "练卒依旧京。",
+        "掘壕不到水，",
+        "牧马役亦轻。",
+        "况乃王师顺，",
+        "抚养甚分明。",
+        "送行勿泣血，",
+        "仆射如父兄。\""
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration"
+     ]
+    },
+
+
+  {
+      "id":"1-0071",
+
+    "English":{
+      "title":"The Pressgang at Stone Moat Village",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "I seek for shelter at nightfall.",
+        "What is the pressgang coming for?",
+        "My old host climbs over the wall;",
+        "My old hostess answers the door.",
+        "How angry is the sergeant's shout!",
+        "How bitter is the woman's cry!",
+        "I hear what she tries to speak out.",
+        "\"I'd three sons guarding the town high.",
+        "One wrote a letter telling me",
+        "That his brothers were killed in war.",
+        "He'll keep alive if he can be;",
+        "The dead have passed and are no more.",
+        "In the house there is no man left,",
+        "Except my grandson in the breast",
+        "Of his mother, of all bereft;",
+        "She can't come out, in tatters dressed.",
+        "Though I'm a woman weak and old,",
+        "1 beg to go tonight with you,",
+        "That I may serve in the stronghold",
+        "And cook morning meals as my due.\"",
+        "With might her voices fade away;",
+        "I seem to hear still sob and sigh.",
+        "At dawn again I go my way",
+        "And only bid my host goodbye."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "石壕吏",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "暮投石壕村，",
+        "有吏夜捉人。",
+        "老翁逾墙走，",
+        "老妇出门看。",
+        "吏呼一何怒！",
+        "妇啼一何苦！",
+        "听妇前致词：",
+        "“三男邺城戍。",
+        "一男附书至，",
+        "二男新战死。",
+        "存者且偷生，",
+        "死者长已矣！",
+        "室中更无人，",
+        "惟有乳下孙。",
+        "有孙母未去，",
+        "出入无完裙。",
+        "老妪力虽衰，",
+        "请从吏夜归。",
+        "急应河阳役，",
+        "犹得备晨炊。”",
+        "夜久语声绝，",
+        "如闻泣幽咽。",
+        "天明登前途，",
+        "独与老翁别。"
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration"
+     ]
+    },
+
+
+  {
+      "id":"1-0072",
+
+    "English":{
+      "title":"Officer at the Western Pass",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "How hard do soldiers work and toil,",
+        "Building ramparts on western soil!",
+        "Iron-clad bastions high and low",
+        "Like walls along the mountain go.",
+        "I ask an officer near by",
+        "If against foes are built walls high.",
+        "He asks me to dismount and look",
+        "Around and points to mountain nook.",
+        "The forts on the peaks scrape the sky,",
+        "Over them even birds can't fly.",
+        "When come the foe, we guard the wall,",
+        "There's no fear for the capital.",
+        "He shows me the narrow pass too,",
+        "Only single chariots file through.",
+        "When guarded with long spear by one,",
+        "The fortress can be forced by none.",
+        "But defeated at Peach Grove, alas!",
+        "Ten thousand men slain at the pass.",
+        "Please tell the general guarding here:",
+        "Be not defeated as that year!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "潼关吏",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "士卒何草草？",
+        "筑城潼关道。",
+        "大城铁不如，",
+        "小城万丈馀。",
+        "借问潼关吏：",
+        "“修关还备胡？”",
+        "要我下马行，",
+        "为我指山隅：",
+        "“连云列战格，",
+        "飞鸟不能逾。",
+        "胡来但自守，",
+        "岂复忧西都？",
+        "丈人视要处，",
+        "窄狭容单车。",
+        "艰难奋长戟，",
+        "万古用一夫。”",
+        "“哀哉桃林战，",
+        "百万化为鱼。",
+        "请嘱防关将，",
+        "慎勿学哥舒。”"
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration",
+       "military"
      ]
     }
 ]

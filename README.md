@@ -105,7 +105,8 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 >    - Homesick
 >    - Honor
 >    - Landscape
->    - Love
+>    - Love 
+>    - Military
 >    - Mountain
 >    - Music
 >    - Night
