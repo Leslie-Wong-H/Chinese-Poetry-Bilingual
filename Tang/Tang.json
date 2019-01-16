@@ -3109,5 +3109,95 @@
        "farewell",
        "love"
      ]
+    },
+
+
+  {
+      "id":"1-0074",
+
+    "English":{
+      "title":"Lament of an Old Man",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "In all the country there's no peace.",
+        "How can an old man live with ease?",
+        "Sons and grandsons in battle slain,",
+        "Why should my old body remain?",
+        "Casting my staff away, I go;",
+        "My companions compassion show.",
+        "Fortunately my teeth are sound,",
+        "But in my bones no marrow's found.",
+        "As soldier clad in armor now,",
+        "To officers I make a bow.",
+        "By the roadside cries my wife old,",
+        "So thinly clad in winter cold.",
+        "Who knows if we can meet again?",
+        "Seeing her shiver, I feel pain.",
+        "Once gone, I can't come back, I fear;",
+        "She still says, \"Eat more!\"to my ear,",
+        "I tell her the fortress is strong,",
+        "To cross the stream takes a time long,",
+        "Unlike the siege of days gone by,",
+        "It's not so soon for me to die.",
+        "To meet or part is fate in life,",
+        "Whether with a young or old wife.",
+        "Remembering when I was strong,",
+        "Can I not heave sighs deep and long!",
+        "War's raging in the countryside;",
+        "Beacon fire blazes far and wide.",
+        "Grass and trees stink with bodies dead;",
+        "With blood the streams and plains turn red.",
+        "Where can I find a happy land?",
+        "Why do I tarry here and stand?",
+        "Why not from my humble home part",
+        "And march away with broken heart!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "垂老别",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "四郊未宁静，",
+        "垂老不得安。",
+        "子孙阵亡尽，",
+        "焉用身独完？",
+        "投杖出门去，",
+        "同行为辛酸。",
+        "幸有牙齿存，",
+        "所悲骨髓干。",
+        "男儿既介胄，",
+        "长揖别上官。",
+        "老妻卧路啼，",
+        "岁暮衣裳单。",
+        "孰知是死别？",
+        "且复伤其寒。",
+        "此去必不归，",
+        "还闻劝加餐。",
+        "土门壁甚坚，",
+        "杏园度亦难。",
+        "势异邺城下，",
+        "纵死时犹宽。",
+        "人生有离合，",
+        "岂择衰老端？",
+        "忆昔少壮日，",
+        "迟回竟长叹。",
+        "万国尽征戍，",
+        "烽火被冈峦。",
+        "积尸草木腥，",
+        "流血川原丹。",
+        "何乡为乐土？",
+        "安敢尚盘桓？",
+        "弃绝蓬室居，",
+        "塌然摧肺肝。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "history"
+     ]
     }
 ]
