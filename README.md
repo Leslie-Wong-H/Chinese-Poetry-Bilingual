@@ -127,5 +127,5 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 Chinese_Poetry_Bilingual is published under the<b> 
 Apache License, Version 2.0.</b>
 
-Thanks for your supporting to use it. 
+Thanks for your supporting. 
 
