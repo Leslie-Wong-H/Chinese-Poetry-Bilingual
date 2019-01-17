@@ -3199,5 +3199,95 @@
        "farewell",
        "history"
      ]
+    },
+
+
+  {
+      "id":"1-0075",
+
+    "English":{
+      "title":"Lament of a Homeless",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "Since the rebellion I feel lone,",
+        "My house with weeds is overgrown.",
+        "A hundred homes can find no rest;",
+        "People are scattered east and west.",
+        "None knows where the living have fled,",
+        "While to dust have returned the dead.",
+        "My humble self after the defeat",
+        "Come back to find my old retreat.",
+        "I walk long on deserted lanes.",
+        "The sun grows lean where drear air reigns.",
+        "In face of bristling fox or cat,",
+        "I am afraid to be growled at.",
+        "How many neighbors left, all told?",
+        "Only one or two widows old.",
+        "A bird will not leave its own nest,",
+        "My house, though poor, will give me rest.",
+        "To hoe up weeds, in spring's my lot,",
+        "At dusk I water garden plot,",
+        "The magistrate knowing I've come",
+        "Orders me to learn to beat drum.",
+        "For service in my native land,",
+        "I need not carry things in hand.",
+        "Alone, I care not where to stay,",
+        "Be it near by or far away.",
+        "The land's in ruins and debris,",
+        "The distance means nothing to me.",
+        "Sick for five years, my mother died",
+        "Unburied, with none by her side.",
+        "She gave birth to me, is it wrong?",
+        "How to repay her all life long?",
+        "I have no home to say goodbye.",
+        "What can poor people do but sigh!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "无家别",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "寂寞天宝后，",
+        "园庐但蒿藜。",
+        "我里百馀家，",
+        "世乱各东西。",
+        "存者无消息，",
+        "死者为尘泥。",
+        "贱子因阵败，",
+        "归来寻旧蹊。",
+        "久行见空巷，",
+        "日瘦气惨凄。",
+        "但对狐与狸，",
+        "竖毛怒我啼。",
+        "四邻何所有，",
+        "一二老寡妻。",
+        "宿鸟恋本枝，",
+        "安辞且穷栖。",
+        "方春独荷锄，",
+        "日暮还灌畦。",
+        "县吏知我至，",
+        "召令习鼓鞞。",
+        "虽从本州役，",
+        "内顾无所携。",
+        "近行止一身，",
+        "远去终转迷。",
+        "家乡既荡尽，",
+        "远近理亦齐。",
+        "永痛长病母，",
+        "五年委沟谿。",
+        "生我不得力，",
+        "终身两酸嘶。",
+        "人生无家别，",
+        "何以为烝黎！"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "history"
+     ]
     }
 ]
