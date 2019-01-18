@@ -3289,5 +3289,47 @@
        "farewell",
        "history"
      ]
+    },
+
+
+  {
+      "id":"1-0076",
+
+    "English":{
+      "title":"Temple of the Premier of Shu",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "Where is the famous premier's temple to be found?",
+        "Outside the Town of Brocade with cypresses around.",
+        "In vain before the steps spring grass grows green and long,",
+        "And amid the leaves golden orioles sing their song.",
+        "Thrice the king visited him for the State's gains and pains;",
+        "He served heart and soul the kingdom during two reigns.",
+        "But he died before he accomplished his career.",
+        "How could heroes not wet their sleeves with tear on tear!"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "蜀相",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "丞相祠堂何处寻，",
+        "锦官城外柏森森。",
+        "映阶碧草自春色，",
+        "隔叶黄鹂空好音。",
+        "三顾频烦天下计，",
+        "两朝开济老臣心。",
+        "出师未捷身先死，",
+        "长使英雄泪满襟。"
+      ]
+    },
+     "tags": [
+       "ambition",
+       "history"
+     ]
     }
 ]
