@@ -3331,5 +3331,39 @@
        "ambition",
        "history"
      ]
+    },
+
+
+  {
+      "id":"1-0077",
+
+    "English":{
+      "title":"Coming Across a Disfavored Court Musician on the Southern Shore of the Yangze River",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "How oft in princely mansions did we meet!",
+        "As oft in lordly halls I heard you sing.",
+        "Now the Southern scenery is most sweet,",
+        "But I meet you again in parting spring."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "江南逢李龟年",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "岐王宅里寻常见，",
+        "崔九堂前几度闻。",
+        "正是江南好风景，",
+        "落花时节又逢君。"
+      ]
+    },
+     "tags": [
+       "reunion",
+       "friendship"
+     ]
     }
 ]
