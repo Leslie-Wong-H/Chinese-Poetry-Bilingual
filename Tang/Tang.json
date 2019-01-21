@@ -3365,5 +3365,47 @@
        "reunion",
        "friendship"
      ]
+    },
+
+
+  {
+      "id":"1-0078",
+
+    "English":{
+      "title":"Recapture of the Regions North and South of the Yellow River",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "It's said the Northern Gate is recaptured of late;",
+        "When the news reach my ears, my gown is wet with tears.",
+        "Staring at my wife's face, of grief I find no trace;",
+        "Rolling up my verse books, my joy like madness looks.",
+        "Though I am white-haired, still Id sing and drink my fill.",
+        "With verdure spring's aglow, it's time we homeward go.",
+        "We shall sail all the way through Three Gorges in a day.",
+        "Going down to Xiangyang, we'll come up to Luoyang."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "闻官军收河南河北",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "剑外忽传收蓟北，",
+        "初闻涕泪满衣裳。",
+        "却看妻子愁何在，",
+        "漫卷诗书喜欲狂。",
+        "白日放歌须纵酒，",
+        "青春作伴好还乡。",
+        "即从巴峡穿巫峡，",
+        "便下襄阳向洛阳。"
+      ]
+    },
+     "tags": [
+       "optimism",
+       "history"
+     ]
     }
 ]
