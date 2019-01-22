@@ -3407,5 +3407,48 @@
        "optimism",
        "history"
      ]
+    },
+
+
+
+  {
+      "id":"1-0079",
+
+    "English":{
+      "title":"Gazing at Mount Tai",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "O peak of peaks, how high it stands!",
+        "One boundless green o'erspreads two States.",
+        "A marvel done by Nature's hands,",
+        "O'er light and shade it dominates.",
+        "Clouds rise therefrom and lave my breast;",
+        "My eyes are strained to see birds fleet.",
+        "Try to ascend the mountain's crest:",
+        "It dwarfs all peaks under our feet."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "望岳",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "岱宗夫如何？",
+        "齐鲁青未了。",
+        "造化钟神秀，",
+        "阴阳割昏晓。",
+        "荡胸生层云，",
+        "决眦入归鸟。",
+        "会当凌绝顶，",
+        "一览众山小。"
+      ]
+    },
+     "tags": [
+       "ambition",
+       "mountain"
+     ]
     }
 ]
