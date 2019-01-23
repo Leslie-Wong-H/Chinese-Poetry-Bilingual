@@ -3407,5 +3407,91 @@
        "optimism",
        "history"
      ]
+    },
+
+
+
+  {
+      "id":"1-0079",
+
+    "English":{
+      "title":"Gazing at Mount Tai",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "O peak of peaks, how high it stands!",
+        "One boundless green o'erspreads two States.",
+        "A marvel done by Nature's hands,",
+        "O'er light and shade it dominates.",
+        "Clouds rise therefrom and lave my breast;",
+        "My eyes are strained to see birds fleet.",
+        "Try to ascend the mountain's crest:",
+        "It dwarfs all peaks under our feet."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "望岳",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "岱宗夫如何？",
+        "齐鲁青未了。",
+        "造化钟神秀，",
+        "阴阳割昏晓。",
+        "荡胸生层云，",
+        "决眦入归鸟。",
+        "会当凌绝顶，",
+        "一览众山小。"
+      ]
+    },
+     "tags": [
+       "ambition",
+       "mountain"
+     ]
+    },
+
+
+  {
+      "id":"1-0080",
+
+    "English":{
+      "title":"Song of the Frontier",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "The bow you carry should be strong;",
+        "The arrows you use should be long.",
+        "Before a horseman, shoot his horse;",
+        "Capture the chief to beat his force!",
+        "Slaughter shan't go beyond its sphere;",
+        "Each State should guard its own frontier.",
+        "If an invasion is repelled,",
+        "Why shed more blood unless compelled?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "前出塞",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "挽弓当挽强，",
+        "用箭当用长。",
+        "射人先射马，",
+        "擒贼先擒王。",
+        "杀人亦有限，",
+        "列国自有疆。",
+        "苟能制侵陵，",
+        "岂在多杀伤？"
+      ]
+    },
+     "tags": [
+       "history",
+       "border",
+       "ambition"
+     ]
     }
 ]
