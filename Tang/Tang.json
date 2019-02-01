@@ -3493,5 +3493,40 @@
        "border",
        "ambition"
      ]
+    },
+
+
+  {
+      "id":"1-0081",
+
+    "English":{
+      "title":"To Li Bai",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "When autumn comes, you're drifting still like thistledown;",
+        "You try to find the way to heaven, but you fail.",
+        "In singing mad and drinking dead your days you drown.",
+        "O when will fly the roc? O when will leap the whale?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "赠李白",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "秋来相顾尚飘蓬，",
+        "未就丹砂愧葛洪。",
+        "痛饮狂歌空度日，",
+        "飞扬跋扈为谁雄？"
+      ]
+    },
+     "tags": [
+       "Friendship"
+     ]
     }
+
+
 ]
