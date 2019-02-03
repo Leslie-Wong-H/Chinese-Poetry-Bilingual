@@ -3524,9 +3524,42 @@
       ]
     },
      "tags": [
-       "Friendship"
+       "friendship"
+     ]
+    },
+
+
+  {
+      "id":"1-0082",
+
+    "English":{
+      "title":"On the Way from the Capital to Fengxian (Excerpt)",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "The mansions burst with wine and meat;",
+        "The poor die frozen on the street.",
+        "Woe stands within an inch of weal.",
+        "Distressed, can I tell what I feel?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "自京赴奉先县咏怀五百字（节选）",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "朱门酒肉臭，",
+        "路有冻死骨。",
+        "荣枯咫尺异，",
+        "惆怅难再述。"
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration"
      ]
     }
-
 
 ]
