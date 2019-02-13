@@ -3560,6 +3560,241 @@
        "history",
        "frustration"
      ]
-    }
+    },
 
+  {
+      "id":"1-0083",
+
+    "English":{
+      "title":"A Moonlit Night",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "On the moon over Fuzhou which shines bright,",
+        "Alone you would gaze in your room tonight.",
+        "I'm grieved to think our little children are",
+        "Too young to yearn for their father afar.",
+        "Your cloudlike hair is moist with dew, it seems;",
+        "Your jade-white arms would feel the cold moonbeams.",
+        "O when can we stand by the windowside,",
+        "Watching the moon with our tear traces dried?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "月夜",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "今夜鄜州月，",
+        "闺中只独看。",
+        "遥怜小儿女，",
+        "未解忆长安。",
+        "香雾云鬟湿，",
+        "清辉玉臂寒。",
+        "何时倚虚幌，",
+        "双照泪痕干？"
+      ]
+    },
+     "tags": [
+       "reunion",
+       "homesick"
+     ]
+    },
+
+  {
+      "id":"1-0084",
+
+    "English":{
+      "title":"Spring View",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "On war-torn land streams flow and mountains stand;",
+        "In vernal town grass and weeds are o'ergrown.",
+        "Grieved o'er the years, flowers make us shed tears;",
+        "Hating to part, hearing birds breaks our heart.",
+        "The beacon fire has gone higher and higher;",
+        "Words from household are worth their weight in gold.",
+        "I cannot bear to scratch my grizzling hair;",
+        "It grows too thin to hold a light hairpin."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "春望",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "国破山河在，",
+        "城春草木深。",
+        "感时花溅泪，",
+        "恨别鸟惊心。",
+        "烽火连三月，",
+        "家书抵万金。",
+        "白头搔更短，",
+        "浑欲不胜簪。"
+      ]
+    },
+     "tags": [
+       "history",
+       "homesick"
+     ]
+    },
+
+  {
+      "id":"1-0085",
+
+    "English":{
+      "title":"Happy Rain on a Spring Night",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "Good rain knows its time right;",
+        "It will fall when comes spring.",
+        "With wind it steals in night;",
+        "Mute, it moistens each thing.",
+        "O'er wild lanes dark cloud spreads;",
+        "In boat a lantern looms.",
+        "Dawn sees saturated reds;",
+        "The town's heavy with blooms."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "春夜喜雨",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "好雨知时节，",
+        "当春乃发生。",
+        "随风潜入夜，",
+        "润物细无声。",
+        "野径云俱黑，",
+        "江船火独明。",
+        "晓看红湿处，",
+        "花重锦官城。"
+      ]
+    },
+     "tags": [
+       "spring",
+       "landscape"
+     ]
+    },
+
+  {
+      "id":"1-0086",
+
+    "English":{
+      "title":"My Cottage Unroofed by Autumn Gales",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "In the eighth moon the autumn gales furiously howl;",
+        "They roll up three layers of straw from my thatched bower.",
+        "The straw flies across the river and spreads in shower,",
+        "Some hanging knotted on the tops of trees that tower,",
+        "Some swirling down and sinking into water foul.",
+        "Urchins from southern village know I'm old and weak,",
+        "They rob me to my face without a blush on the cheek,",
+        "And holding armfuls of straw, into bamboos they sneak.",
+        "In vain I call them till my lips are parched and dry;",
+        "Again alone, I lean on my cane and sigh.",
+        "Shortly the gale subsides and clouds turn dark as ink;",
+        "The autumn skies are shrouded and in darkness sink.",
+        "My cotton quilt is cold, for years it has been worn;",
+        "My restless children kick in sleep and it is torn.",
+        "The roof leaks o'er beds, leaving no corner dry;",
+        "Without cease the rain falls thick and fast from the sky.",
+        "After the troubled times troubled has been my sleep.",
+        "Wet through, how can I pass the night so long, so deep!",
+        "Could I get mansions covering ten thousand miles,",
+        "I'd house all scholars poor and make them beam with smiles.",
+        "In wind and rain these mansions would stand like mountains high.",
+        "Alas! Should these house appear before my eye,",
+        "Frozen in my unroofed cot,content I'd die."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "茅屋为秋风所破歌",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "八月秋高风怒号，",
+        "卷我屋上三重茅。",
+        "茅飞度江洒江郊，",
+        "高者挂罥长林梢，",
+        "下者飘转沉塘坳。",
+        "南村群童欺我老无力，",
+        "忍能对面为盗贼。",
+        "公然抱茅入竹去，",
+        "唇焦口燥呼不得，",
+        "归来倚杖自叹息。",
+        "俄顷风定云墨色，",
+        "秋天漠漠向昏黑。",
+        "布衾多年冷似铁，",
+        "骄儿恶卧踏里裂。",
+        "床头屋漏无干处，",
+        "雨脚如麻未断绝。",
+        "自经丧乱少睡眠，",
+        "长夜沾湿何由彻！",
+        "安得广厦千万间，",
+        "大庇天下寒士俱欢颜，",
+        "风雨不动安如山！",
+        "呜呼！何时眼前突兀见此屋，",
+        "吾庐独破受冻死亦足！"
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration"
+     ]
+    },
+
+
+  {
+      "id":"1-0087",
+
+    "English":{
+      "title":"On the Height",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "The wind so swift, the sky so wide, apes wail and cry;",
+        "Water so clear and beach so white, birds wheel and fly.",
+        "The boundless forest sheds its leaves shower by shower;",
+        "The endless river rolls its waves hour after hour,",
+        "A thousand miles from home, I'm grieved at autumn's plight;",
+        "I'll now and then for years, alone I'm on this height,",
+        "Living in times so hard, at frosted hair I pine;",
+        "Cast down by poverty, I have to give up wine."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "登高",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "风急天高猿啸哀，",
+        "渚清沙白鸟飞回。",
+        "无边落木萧萧下，",
+        "不尽长江滚滚来。",
+        "万里悲秋常作客，",
+        "百年多病独登台。",
+        "艰难苦恨繁霜鬓，",
+        "潦倒新停浊酒怀。"
+      ]
+    },
+     "tags": [
+       "mountain",
+       "landscape"
+     ]
+    }
 ]
