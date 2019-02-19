@@ -3796,5 +3796,157 @@
        "mountain",
        "landscape"
      ]
+    },
+
+
+  {
+      "id":"1-0088",
+
+    "English":{
+      "title":"On Yueyang Tower",
+      "dynasty":"Tang",
+      "author": "Du Fu",
+      "content":[
+        "Long have I heard of Dongting Lake,",
+        "Now I ascend the Yueyang Height.",
+        "Here eastern state and southern break;",
+        "Here sun and moon float day and night.",
+        "No word from friends or kinsfolk dear,",
+        "A boat bears my declining years.",
+        "War's raging on the northern frontier,",
+        "Leaning on rails, I shed sad tears."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "登岳阳楼",
+      "dynasty": "唐",
+      "author": "杜甫",
+      "content": [
+        "昔闻洞庭水，",
+        "今上岳阳楼。",
+        "吴楚东南坼，",
+        "乾坤日夜浮。",
+        "亲朋无一字，",
+        "老病有孤舟。",
+        "戎马关山北，",
+        "凭轩涕泗流。"
+      ]
+    },
+     "tags": [
+       "homesick",
+       "landscape"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0089",
+
+    "English":{
+      "title":"The Old Charcoal Seller",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "What does the old man fare?",
+        "He cuts the wood in southern hill and fires his ware.",
+        "His face is grimed with smoke and streaked with ash and dust.",
+        "His temples grizzled and his fingers all turned black.",
+        "The money earned by selling charcoal is not just",
+        "Enough for food for his mouth and clothing for his back.",
+        "Though his coat is thin, he hopes winter will set in,",
+        "For cold weather will keep up the charcoal's good price.",
+        "At night a foot of snow falls outside city walls;",
+        "At dawn his charcoal cart crushes ruts in the ice.",
+        "The sun is high, the ox tired out and hungry he;",
+        "Outside the southern gate in snow and slush they rest.",
+        "Two riders canter up. Alas! who can they be?",
+        "Two palace heralds in the yellow jackets dressed.",
+        "Decree in hand, which is imperial order, one says;",
+        "They turn the cart about and at the ox they shout.",
+        "A cartload of charcoal a thousand catties weighs;",
+        "They drive the cart away. What dare the old man say?",
+        "Ten feet of silk and twenty feet of gauze deep red,",
+        "That is the payment they fasten to the ox's head."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "卖炭翁",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "卖炭翁，",
+        "伐薪烧炭南山中。",
+        "满面尘灰烟火色，",
+        "两鬓苍苍十指黑。",
+        "卖炭得钱何所营？",
+        "身上衣裳口中食。",
+        "可怜身上衣正单，",
+        "心忧炭贱愿天寒。",
+        "夜来城外一尺雪，",
+        "晓驾炭车辗冰辙。",
+        "牛困人饥日已高，",
+        "市南门外泥中歇。",
+        "翩翩两骑来是谁？",
+        "黄衣使者白衫儿。",
+        "手把文书口称敕，",
+        "回车叱牛牵向北。",
+        "一车炭，千余斤。",
+        "宫使驱将惜不得。",
+        "半匹红绡一丈绫。",
+        "系向牛头充炭直。"
+      ]
+    },
+     "tags": [
+       "history",
+       "frustration"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0090",
+
+    "English":{
+      "title":"Grass on the Ancient Plain —— Farewell to a Friend",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "Wild grasses spread o'er ancient plain;",
+        "With spring and fall they come and go.",
+        "Fire tries to burn them up in vain;",
+        "They rise again when spring winds blow.",
+        "Their fragrance overruns the way;",
+        "Their green invades the ruined town.",
+        "To see my friend going away,",
+        "My sorrow grows like grass o'ergrown."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "赋得古原草送别",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "离离原上草，",
+        "一岁一枯荣。",
+        "野火烧不尽，",
+        "春风吹又生。",
+        "远芳侵古道，",
+        "晴翠接荒城。",
+        "又送王孙去，",
+        "萋萋满别情。"
+      ]
+    },
+     "tags": [
+       "farewell",
+       "friendship"
+     ]
     }
 ]
