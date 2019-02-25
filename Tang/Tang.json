@@ -4420,5 +4420,236 @@
        "solitude",
        "frustration"
      ]
+    },
+
+
+  {
+      "id":"1-0093",
+
+    "English":{
+      "title":"The Moon over the Riverside Tower",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "You stand by River Jialing, I by winding streams.",
+        "Though far apart, still we share the same bright moonbeams.",
+        "All night long I think of you and for you I pine,",
+        "For I am not sure if you see the same moon shine.",
+        "Who knows when by waterside I'm longing for you,",
+        "By nocturnal riverside you're missing me too?",
+        "When I receive your poem, I regret today:",
+        "Why did I not send mine to you so far away?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "江楼月",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "嘉陵江曲曲江池，",
+        "明月虽同人别离。",
+        "一宵光景潜相忆，",
+        "两地阴晴远不知。",
+        "谁料江边怀我夜，",
+        "正当池畔望君时。",
+        "今朝共语方同悔，",
+        "不解多情先寄诗。"
+      ]
+    },
+     "tags": [
+       "love",
+       "night"
+     ]
+    },
+
+
+
+  {
+      "id":"1-0094",
+
+    "English":{
+      "title":"Sunset and Moonrise on the River",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "The departing sunbeams pave a way on the river;",
+        "Half of its waves turn red and the other half shiver.",
+        "How I love the third night of the ninth moon aglow!",
+        "The dewdrops look like pearls; the crescent like a bow."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "暮江吟",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "一道残阳铺水中，",
+        "半江瑟瑟半江红。",
+        "可怜九月初三夜，",
+        "露似珍珠月似弓。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "silence"
+     ]
+    },
+
+
+  {
+      "id":"1-0095",
+
+    "English":{
+      "title":"The Lake in Spring",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "What a charming picture when spring comes to the lake!",
+        "Amid the rugged peaks water's smooth without a break.",
+        "Hills upon hills are green with thousands of pine trees,",
+        "The moon looks like a pearl swimming in waves with ease.",
+        "Like a green carpet early paddy fields undulate,",
+        "New rushes spread out as silk girdle fascinate.",
+        "From fair Hangzhou I cannot tear myself away,",
+        "On half my heart this lake holds an alluring sway."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "春题湖上",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "湖上春来似画图，",
+        "乱峰围绕水平铺。",
+        "松排山面千重翠，",
+        "月点波心一颗珠。",
+        "碧毯线头抽早稻，",
+        "青罗裙带展新蒲。",
+        "未能抛得杭州去，",
+        "一半句留是此湖。"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0096",
+
+    "English":{
+      "title":"Song of Willow Branch",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "A tree of million branches sways in breeze of spring,",
+        "More tender and more soft than golden silk string by string.",
+        "In western corner of a garden in decay,",
+        "Who would come to admire its beauty all the day?"
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "杨柳枝词",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "一树春风千万枝，",
+        "嫩如金色软于丝。",
+        "永丰西角荒园里，",
+        "尽日无人属阿谁？"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "spring"
+     ]
+    },
+
+
+  {
+      "id":"1-0097",
+
+    "English":{
+      "title":"Everlasting Longing",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "See Northern river flow,",
+        "And Western river flow!",
+        "By Melon Islet, mingling waves, they go,",
+        "The Southern hills dotted with woe.",
+        "O how can I forget?",
+        "How can I not regret?",
+        "My deep sorrow will last till with you I have met,",
+        "Waiting from moonrise to moonset."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "长相思",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "汴水流，",
+        "泗水流，",
+        "流到瓜洲古渡头。",
+        "吴山点点愁。",
+        "思悠悠，",
+        "恨悠悠，",
+        "恨到归时方始休。",
+        "月明人倚楼。"
+      ]
+    },
+     "tags": [
+       "love",
+       "longing"
+     ]
+    },
+
+
+  {
+      "id":"1-0098",
+
+    "English":{
+      "title":"Fair South Recalled",
+      "dynasty":"Tang",
+      "author": "Bai Juyi",
+      "content":[
+        "Fair Southern shore",
+        "With scenes I much adore,",
+        "At sunrise riverside flowers more red than fire,",
+        "In spring green river waves grow as blue as sapphire.",
+        "Which I can't but admire."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "忆江南",
+      "dynasty": "唐",
+      "author": "白居易",
+      "content": [
+        "江南好，",
+        "风景旧曾谙。",
+        "日出江花红胜火，",
+        "春来江水绿如蓝。",
+        "能不忆江南？"
+      ]
+    },
+     "tags": [
+       "landscape",
+       "spring"
+     ]
     }
 ]
