@@ -1,4 +1,4 @@
-# Chinese_Poetry_Bilingual
+# Chinese-Poetry-Bilingual
 ### What is the definition of this repository?
 A database of Chinese Poetry in json format
  with Chinese and English versions.
