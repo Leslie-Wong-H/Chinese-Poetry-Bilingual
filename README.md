@@ -1,10 +1,10 @@
 # Chinese-Poetry-Bilingual
 ### What is the definition of this repository?
 A database of Chinese Poetry in json format
- with Chinese and English versions.
+ with both Chinese and English versions.
 
 
-### Why I want to build this database?
+### Why do I want to build this database?
 Mainly inspired by the high-stared repository
  <i>chinese-poetry</i>, the author of which aims 
  to provide chinese users an quick way to get 
