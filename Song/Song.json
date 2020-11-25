@@ -42,5 +42,45 @@
        "love",
        "longing"
      ]
+  },
+
+  {
+      "id":"2-0002",
+
+    "English":{
+      "title":"Tune: Buddhist Dancers",
+      "dynasty":"Song",
+      "author": "Shu Dan",
+      "content":[
+        "Drumbeats on painted ship hasten you to depart;",
+        "Wine-cups in high tower try to delay your start.",
+        "To start or to stay is hard to decide;",
+        "In the west river will soon rise the tide.",
+        "It is easy for the tide to come forth,",
+        "But we'll be far apart south and north.",
+        "We drink our wine-cups dry today.",
+        "When can we again together stay?"
+      ]
+      },
+
+    "Chinese": {
+      "title": "菩萨蛮",
+      "dynasty": "宋",
+      "author": "舒直",
+      "content": [
+        "画船捶鼓催君去，",
+        "高楼把酒留君住。",
+        "去位若为情，",
+        "西江潮欲平。",
+        "江潮容易得，",
+        "只是人南北。",
+        "今日此樽空，",
+        "知君何日同？"
+      ]
+    },
+     "tags": [
+       "wine",
+       "farewell"
+     ]
   }
 ]
