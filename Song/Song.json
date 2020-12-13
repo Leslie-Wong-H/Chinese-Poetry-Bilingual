@@ -82,5 +82,116 @@
        "wine",
        "farewell"
      ]
+  },
+
+  {
+      "id":"2-0003",
+
+    "English":{
+      "title":"Tune: Song of Divination - The Moss",
+      "dynasty":"Song",
+      "author": "Shu Dan",
+      "content":[
+        "The poolside bears no trace of rain;",
+        "Few fragrant cabs pass on the lane.",
+        "Who strews green coins to set off fallen red?",
+        "None would sweep clean the ground with moss overspread.",
+        "When did the flower-picking lasses",
+        "Come back after the game of grasses?",
+        "They've left their lotus-like footsteps to recall;",
+        "Their palace-styled shoes so small."
+      ]
+      },
+
+    "Chinese": {
+      "title": "卜算子·分题得苔",
+      "dynasty": "宋",
+      "author": "舒亶",
+      "content": [
+        "池合小雨干，",
+        "门巷香轮少。",
+        "谁把青钱衬落红?",
+        "满地无人扫。",
+        "何时斗草归?",
+        "几度寻花了。",
+        "留得佳人莲步痕，",
+        "宫样鞋儿小。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+      "id":"2-0004",
+
+    "English":{
+      "title":"Tune: The Moon over the West River - Home-Going at Night from the Yellow Sand Bridge",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "Startled by magpies leaving the branch in moonlight,",
+        "I hear cicadas shrill in the breeze at midnight.",
+        "The ricefields' sweet smell promises a bumper year;",
+        "Listen, how frogs' croaks please the ear!",
+        "Beyond the clouds seven or eight stars twinkle;",
+        "Before the hills two or three raindrops sprinkle.",
+        "There is an inn beside the village temple. Look!",
+        "The winding path leads to the hut beside the brook."
+      ]
+      },
+
+    "Chinese": {
+      "title": "西江月·夜行黄沙道中",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "明月别枝惊鹊，",
+        "清风半夜鸣蝉。",
+        "稻花香里说丰年，",
+        "听取蛙声一片。",
+        "七八个星天外，",
+        "两三点雨山前。",
+        "旧时茅店社林边，",
+        "路转溪桥忽见。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+      "id":"2-0005",
+
+    "English":{
+      "title":"Tune: Song of Hawthorn - Visiting Rain Cliff Alone",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "My walking shadow mirrored in the brook,",
+        "Heaven spreads out in deep clear water, look!",
+        "The clouds are floating in the sky;",
+        "I'm floating 'mid the clouds on high.",
+        "I sing but no echo I hear;",
+        "From empty vale rise voices clear.",
+        "Nor spirits nor fairies of spring",
+        "But peach blossoms on water sing."
+      ]
+      },
+
+    "Chinese": {
+      "title": "生查子·独游雨岩",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "溪边照影行，",
+        "天在清溪底。",
+        "天上有行云，",
+        "人在行云里。",
+        "高歌谁和余?",
+        "空谷清音起。",
+        "非鬼亦非仙，",
+        "一曲桃花水。"
+      ]
+    },
+     "tags": []
   }
 ]
