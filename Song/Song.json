@@ -193,5 +193,42 @@
       ]
     },
      "tags": []
+  },
+
+    {
+      "id":"2-0006",
+
+    "English":{
+      "title":"Tune: Song of Ugly Slave - Written on the Wall on My Way to Boshan",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "While young, I knew no grief I could not bear;",
+        "I'd like to go upstair.",
+        "I'd like to go upstair,",
+        "To write new verses with a false despair.",
+        "I know what grief is now that I am old;",
+        "I would not have it told.",
+        "I would not have it told,",
+        "But only say I'm glad that autumn's cold."
+      ]
+      },
+
+    "Chinese": {
+      "title": "丑奴儿·书博山道中壁",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "少年不识愁滋味，",
+        "爱上层楼。",
+        "爱上层楼，",
+        "为赋新词强说愁。",
+        "而今识尽愁滋味，",
+        "欲说还休。",
+        "欲说还休，",
+        "却道天凉好个秋。"
+      ]
+    },
+     "tags": []
   }
 ]
