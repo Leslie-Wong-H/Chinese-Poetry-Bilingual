@@ -1,6 +1,6 @@
 [
-    {
-      "id":"2-0001",
+  {
+    "id":"2-0001",
 
     "English":{
       "title":"Tune: Dream of a Fair Maiden",
@@ -45,7 +45,7 @@
   },
 
   {
-      "id":"2-0002",
+    "id":"2-0002",
 
     "English":{
       "title":"Tune: Buddhist Dancers",
@@ -85,7 +85,7 @@
   },
 
   {
-      "id":"2-0003",
+    "id":"2-0003",
 
     "English":{
       "title":"Tune: Song of Divination - The Moss",
@@ -122,7 +122,7 @@
   },
 
   {
-      "id":"2-0004",
+    "id":"2-0004",
 
     "English":{
       "title":"Tune: The Moon over the West River - Home-Going at Night from the Yellow Sand Bridge",
@@ -159,7 +159,7 @@
   },
 
   {
-      "id":"2-0005",
+    "id":"2-0005",
 
     "English":{
       "title":"Tune: Song of Hawthorn - Visiting Rain Cliff Alone",
@@ -195,8 +195,8 @@
      "tags": []
   },
 
-    {
-      "id":"2-0006",
+  {
+    "id":"2-0006",
 
     "English":{
       "title":"Tune: Song of Ugly Slave - Written on the Wall on My Way to Boshan",
@@ -227,6 +227,45 @@
         "欲说还休。",
         "欲说还休，",
         "却道天凉好个秋。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+    "id":"2-0007",
+
+    "English":{
+      "title":"Tune: Partridge Sky",
+      "dynasty":"Song",
+      "author": "Lu You",
+      "content":[
+        "Living between grey mist and setting sun,",
+        "I'm freed from all worldly cares one by one.",
+        "Drunk, I'll pass through groves of bamboo;",
+        "Books read, I would lie still to contemplate the hill.",
+        "Why proud and bold?",
+        "Let me grow old",
+        "And wear, wherever I go, a smiling face!",
+        "Don't you know the Creator has the grace",
+        "To level heroes down to commonplace?"
+      ]
+      },
+
+    "Chinese": {
+      "title": "鹧鸪天",
+      "dynasty": "宋",
+      "author": "陆游",
+      "content": [
+        "家住苍烟落照间，",
+        "丝毫尘事不相关。",
+        "斟残玉瀣行穿竹，",
+        "卷罢《黄庭》卧看山。",
+        "贪啸傲，",
+        "任衰残，",
+        "不妨随处一开颜。",
+        "元知造物心肠别，",
+        "老却英雄似等闲。"
       ]
     },
      "tags": []
