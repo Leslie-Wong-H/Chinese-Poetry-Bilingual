@@ -269,5 +269,43 @@
       ]
     },
      "tags": []
+  },
+
+    {
+    "id":"2-0008",
+
+    "English":{
+      "title":"Tune: Measures at Court - The Mume Blossom",
+      "dynasty":"Song",
+      "author": "Lu You",
+      "content":[
+        "Your lonely grace won't visit Vanity Fair;",
+        "Silent and sad, you do not care.",
+        "Like a wanderer you play your part",
+        "With an indifferent heart.",
+        "With new verse and old dream,",
+        "I feel the grief your fragrance brings.",
+        "Uncared for by the vernal breeze on the wing,",
+        "You are the first to welcome spring."
+      ]
+      },
+
+    "Chinese": {
+      "title": "朝中措·梅",
+      "dynasty": "宋",
+      "author": "陆游",
+      "content": [
+        "幽姿不入少年场，",
+        "无语只凄凉。",
+        "一个飘零身世，",
+        "十分冷淡心肠。",
+        "江头月底，",
+        "新诗旧梦，",
+        "孤恨清香。",
+        "任是春风不管，",
+        "也曾先识东皇。"
+      ]
+    },
+     "tags": []
   }
 ]
