@@ -1,14 +1,18 @@
-# Chinese_Poetry_Bilingual
+# Chinese-Poetry-Bilingual
+
+**LIVE RESTFUL API: https://www.playgameoflife.live/tang.json**
+Welcome to adopt!
+
 ### What is the definition of this repository?
 A database of Chinese Poetry in json format
  with both Chinese and English versions.
 
-### Why do I want to build this database?
-Mainly inspired by the high-stared repository
+### Why do I want to maintain this database?
+Mainly inspired by the highly-stared repository
  <i>chinese-poetry</i>, the author of which aims 
- to provide chinese users an quick way to get 
+ to provide chinese users a quick way to get 
  exposed to traditional Chinese culture. 
- Then, it occurs to me that why not build a similar 
+ Then, it occurs to me why not maintain a similar 
  database, but in English? According to my experience, I notice that
  a lot of native English speakers like to pick some Chinese culture sentences
  during their conversation. To enrich their understanding of Chinese culture,
@@ -16,7 +20,7 @@ Mainly inspired by the high-stared repository
  The repository focuses 
  on offering developers who are native English speakers and 
  interested in traditional Chinese culture an original database 
- which can be used by their projects, forming an mysterious beauty from 
+ which can be used in their projects, forming an mysterious beauty from 
  ancient China. 
 
 
@@ -32,7 +36,7 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 ### Directories
 ```
 .
-├── id
+├── index
 ├── English
     ├── title
     ├── dynasty
@@ -52,7 +56,7 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 ```json
 [
     {
-    "id": "1-0001",
+    "index": "1-0001",
     
     "English":{
       "title":"Home-Coming",
@@ -127,5 +131,5 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 Chinese_Poetry_Bilingual is published under the<b> 
 Apache License, Version 2.0.</b>
 
-Thanks for your supporting to use it. 
+Thanks for your support. 
 
