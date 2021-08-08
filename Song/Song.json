@@ -1,0 +1,311 @@
+[
+  {
+    "id":"2-0001",
+
+    "English":{
+      "title":"Tune: Dream of a Fair Maiden",
+      "dynasty":"Song",
+      "author": "Li Zhiyi",
+      "content":[
+        "The clear stream's chill,",
+        "Steeped in the frosty wind the moon atop the hill.",
+        "The moon atop the hill",
+        "Greets clouds on high",
+        "And waves goodbye.",
+        "I do not know what day's today.",
+        "Looking afar, I see not your trace far away.",
+        "You're far away,",
+        "Sails come and go,",
+        "Two towers glow."
+      ]
+      },
+
+
+    "Chinese": {
+      "title": "忆秦娥",
+      "dynasty": "宋",
+      "author": "李之仪",
+      "content": [
+        "清溪咽，",
+        "霜风洗出山头月。",
+        "山头月，",
+        "迎得云归，",
+        "还送云别。",
+        "不知今是何时节？",
+        "凌歊望断音尘绝。",
+        "音尘绝，",
+        "帆来帆去，",
+        "天际双阙。"
+      ]
+    },
+     "tags": [
+       "love",
+       "longing"
+     ]
+  },
+
+  {
+    "id":"2-0002",
+
+    "English":{
+      "title":"Tune: Buddhist Dancers",
+      "dynasty":"Song",
+      "author": "Shu Dan",
+      "content":[
+        "Drumbeats on painted ship hasten you to depart;",
+        "Wine-cups in high tower try to delay your start.",
+        "To start or to stay is hard to decide;",
+        "In the west river will soon rise the tide.",
+        "It is easy for the tide to come forth,",
+        "But we'll be far apart south and north.",
+        "We drink our wine-cups dry today.",
+        "When can we again together stay?"
+      ]
+      },
+
+    "Chinese": {
+      "title": "菩萨蛮",
+      "dynasty": "宋",
+      "author": "舒亶",
+      "content": [
+        "画船捶鼓催君去，",
+        "高楼把酒留君住。",
+        "去位若为情，",
+        "西江潮欲平。",
+        "江潮容易得，",
+        "只是人南北。",
+        "今日此樽空，",
+        "知君何日同？"
+      ]
+    },
+     "tags": [
+       "wine",
+       "farewell"
+     ]
+  },
+
+  {
+    "id":"2-0003",
+
+    "English":{
+      "title":"Tune: Song of Divination - The Moss",
+      "dynasty":"Song",
+      "author": "Shu Dan",
+      "content":[
+        "The poolside bears no trace of rain;",
+        "Few fragrant cabs pass on the lane.",
+        "Who strews green coins to set off fallen red?",
+        "None would sweep clean the ground with moss overspread.",
+        "When did the flower-picking lasses",
+        "Come back after the game of grasses?",
+        "They've left their lotus-like footsteps to recall;",
+        "Their palace-styled shoes so small."
+      ]
+      },
+
+    "Chinese": {
+      "title": "卜算子·分题得苔",
+      "dynasty": "宋",
+      "author": "舒亶",
+      "content": [
+        "池合小雨干，",
+        "门巷香轮少。",
+        "谁把青钱衬落红?",
+        "满地无人扫。",
+        "何时斗草归?",
+        "几度寻花了。",
+        "留得佳人莲步痕，",
+        "宫样鞋儿小。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+    "id":"2-0004",
+
+    "English":{
+      "title":"Tune: The Moon over the West River - Home-Going at Night from the Yellow Sand Bridge",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "Startled by magpies leaving the branch in moonlight,",
+        "I hear cicadas shrill in the breeze at midnight.",
+        "The ricefields' sweet smell promises a bumper year;",
+        "Listen, how frogs' croaks please the ear!",
+        "Beyond the clouds seven or eight stars twinkle;",
+        "Before the hills two or three raindrops sprinkle.",
+        "There is an inn beside the village temple. Look!",
+        "The winding path leads to the hut beside the brook."
+      ]
+      },
+
+    "Chinese": {
+      "title": "西江月·夜行黄沙道中",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "明月别枝惊鹊，",
+        "清风半夜鸣蝉。",
+        "稻花香里说丰年，",
+        "听取蛙声一片。",
+        "七八个星天外，",
+        "两三点雨山前。",
+        "旧时茅店社林边，",
+        "路转溪桥忽见。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+    "id":"2-0005",
+
+    "English":{
+      "title":"Tune: Song of Hawthorn - Visiting Rain Cliff Alone",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "My walking shadow mirrored in the brook,",
+        "Heaven spreads out in deep clear water, look!",
+        "The clouds are floating in the sky;",
+        "I'm floating 'mid the clouds on high.",
+        "I sing but no echo I hear;",
+        "From empty vale rise voices clear.",
+        "Nor spirits nor fairies of spring",
+        "But peach blossoms on water sing."
+      ]
+      },
+
+    "Chinese": {
+      "title": "生查子·独游雨岩",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "溪边照影行，",
+        "天在清溪底。",
+        "天上有行云，",
+        "人在行云里。",
+        "高歌谁和余?",
+        "空谷清音起。",
+        "非鬼亦非仙，",
+        "一曲桃花水。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+    "id":"2-0006",
+
+    "English":{
+      "title":"Tune: Song of Ugly Slave - Written on the Wall on My Way to Boshan",
+      "dynasty":"Song",
+      "author": "Xin Qiji",
+      "content":[
+        "While young, I knew no grief I could not bear;",
+        "I'd like to go upstair.",
+        "I'd like to go upstair,",
+        "To write new verses with a false despair.",
+        "I know what grief is now that I am old;",
+        "I would not have it told.",
+        "I would not have it told,",
+        "But only say I'm glad that autumn's cold."
+      ]
+      },
+
+    "Chinese": {
+      "title": "丑奴儿·书博山道中壁",
+      "dynasty": "宋",
+      "author": "辛弃疾",
+      "content": [
+        "少年不识愁滋味，",
+        "爱上层楼。",
+        "爱上层楼，",
+        "为赋新词强说愁。",
+        "而今识尽愁滋味，",
+        "欲说还休。",
+        "欲说还休，",
+        "却道天凉好个秋。"
+      ]
+    },
+     "tags": []
+  },
+
+  {
+    "id":"2-0007",
+
+    "English":{
+      "title":"Tune: Partridge Sky",
+      "dynasty":"Song",
+      "author": "Lu You",
+      "content":[
+        "Living between grey mist and setting sun,",
+        "I'm freed from all worldly cares one by one.",
+        "Drunk, I'll pass through groves of bamboo;",
+        "Books read, I would lie still to contemplate the hill.",
+        "Why proud and bold?",
+        "Let me grow old",
+        "And wear, wherever I go, a smiling face!",
+        "Don't you know the Creator has the grace",
+        "To level heroes down to commonplace?"
+      ]
+      },
+
+    "Chinese": {
+      "title": "鹧鸪天",
+      "dynasty": "宋",
+      "author": "陆游",
+      "content": [
+        "家住苍烟落照间，",
+        "丝毫尘事不相关。",
+        "斟残玉瀣行穿竹，",
+        "卷罢《黄庭》卧看山。",
+        "贪啸傲，",
+        "任衰残，",
+        "不妨随处一开颜。",
+        "元知造物心肠别，",
+        "老却英雄似等闲。"
+      ]
+    },
+     "tags": []
+  },
+
+    {
+    "id":"2-0008",
+
+    "English":{
+      "title":"Tune: Measures at Court - The Mume Blossom",
+      "dynasty":"Song",
+      "author": "Lu You",
+      "content":[
+        "Your lonely grace won't visit Vanity Fair;",
+        "Silent and sad, you do not care.",
+        "Like a wanderer you play your part",
+        "With an indifferent heart.",
+        "With new verse and old dream,",
+        "I feel the grief your fragrance brings.",
+        "Uncared for by the vernal breeze on the wing,",
+        "You are the first to welcome spring."
+      ]
+      },
+
+    "Chinese": {
+      "title": "朝中措·梅",
+      "dynasty": "宋",
+      "author": "陆游",
+      "content": [
+        "幽姿不入少年场，",
+        "无语只凄凉。",
+        "一个飘零身世，",
+        "十分冷淡心肠。",
+        "江头月底，",
+        "新诗旧梦，",
+        "孤恨清香。",
+        "任是春风不管，",
+        "也曾先识东皇。"
+      ]
+    },
+     "tags": []
+  }
+]

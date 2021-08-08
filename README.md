@@ -7,7 +7,6 @@ Welcome to adopt!
 A database of Chinese Poetry in json format
  with both Chinese and English versions.
 
-
 ### Why do I want to maintain this database?
 Mainly inspired by the highly-stared repository
  <i>chinese-poetry</i>, the author of which aims 
@@ -37,7 +36,7 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 ### Directories
 ```
 .
-├── id
+├── index
 ├── English
     ├── title
     ├── dynasty
@@ -57,7 +56,7 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 ```json
 [
     {
-    "id": "1-0001",
+    "index": "1-0001",
     
     "English":{
       "title":"Home-Coming",
@@ -132,5 +131,5 @@ The first number: 1->Tang dynasty, 2->Song dynasty, 3->Qing dynasty)
 Chinese_Poetry_Bilingual is published under the<b> 
 Apache License, Version 2.0.</b>
 
-Thanks for your supporting. 
+Thanks for your support. 
 
