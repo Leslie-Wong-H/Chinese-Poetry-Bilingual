@@ -1,6 +1,6 @@
 # Chinese-Poetry-Bilingual
 
-**LIVE RESTFUL API: https://api.playgameoflife.live/v1/tang.json**
+**LIVE RESTFUL API: ~https://api.playgameoflife.live/v1/tang.json~ -> https://api-playgameoflife.boost-art.net/v1/tang.json**
 Welcome to adopt!
 
 ### What is the definition of this repository?
